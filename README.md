@@ -1,5 +1,5 @@
 <!-- Hình động giới thiệu -->
-<img src="[https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif](https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/481309729_1173447080906585_6773551053757646776_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeElzPdihjIS_aTDZ7zRQbsUGN7p2UBFaC4Y3unZQEVoLmfrqCTzCdc0cjcRu7cGtsiUx-gyy_RmUDrpOThZ0eGC&_nc_ohc=6PH439T4_4cQ7kNvwE9sUhR&_nc_oc=AdnpR7Av7ccAlt59xyYNnlrS_36mQBHJ-2FsogVgSj_4r-JT_FxixWYC9Kr6ZB5frVI&_nc_zt=23&_nc_ht=scontent.fsgn2-6.fna&_nc_gid=whNAnAmH2H78uf2LncdSlA&oh=00_AfJxDU5vDygKHdTFEUY0OFsMrIzWZNd9ztNbkVF95zXhRA&oe=682281CA)" alt="dev" width="100%"/>
+<img src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/481309729_1173447080906585_6773551053757646776_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeElzPdihjIS_aTDZ7zRQbsUGN7p2UBFaC4Y3unZQEVoLmfrqCTzCdc0cjcRu7cGtsiUx-gyy_RmUDrpOThZ0eGC&_nc_ohc=6PH439T4_4cQ7kNvwE9sUhR&_nc_oc=AdnpR7Av7ccAlt59xyYNnlrS_36mQBHJ-2FsogVgSj_4r-JT_FxixWYC9Kr6ZB5frVI&_nc_zt=23&_nc_ht=scontent.fsgn2-6.fna&_nc_gid=whNAnAmH2H78uf2LncdSlA&oh=00_AfJxDU5vDygKHdTFEUY0OFsMrIzWZNd9ztNbkVF95zXhRA&oe=682281CA" alt="dev" width="100%"/>
 
 <!-- Tiêu đề -->
 <h2 align="center">🛠 Technologies and Tools - Thuần Seven - 2025 🛠</h2>
