@@ -20,18 +20,22 @@
 
 <!-- Biểu đồ thống kê -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MinhVi24&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="languages" />
 </div>
 
 <!-- Bảng thống kê và hình gif -->
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhVi24&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="streak-stats" /><br>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MinhVi24&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+
+ <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tranvanthuan1805&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyoni...der=true"
+          alt="kayvanshah" />
     </td>
-    <td align="center">
-      <img src="https://i.pinimg.com/originals/da/35/6f/da356f64d2285d56895b0f65f8e192f6.gif" alt="dev" width="320px"/>
+    <td>
+      <p align="center"> 
+        <img src="https://i.pinimg.com/originals/da/35/6f/da356f64d2285d56895b0f65f8e192f6.gif" alt="dev" width="320px"/>
+      </p>
     </td>
   </tr>
 </table>
