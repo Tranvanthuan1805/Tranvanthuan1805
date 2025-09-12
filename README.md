@@ -1,17 +1,8 @@
-# 💫About Me :
 English:
-I am an Information Technology student at FPT University, majoring in Software Engineering. Since high school, I have consistently pursued academic excellence, receiving scholarships from grade 9 to grade 12, and later achieving the Top 10% Scholarship at FPT University.
-
-Beyond academics, I am passionate about sharing knowledge and building communities. I run a YouTube channel called “Thuần Lại Lập Trình” where I share IT tutorials and study experiences. I also manage my own website dedicated to IT education and lead a self-learning IT community of over 1,000 members across Discord, Zalo, and Facebook.
-
-I am honored to be recognized as an Excellent Student at FPT University, and my goal is to continue learning, innovating, and contributing to the global IT community.
+IT student at FPT University (Software Engineering) | Top 10% Scholarship | Founder of Thuần Lại Lập Trình (YouTube, website, 1,000+ community members) | Passionate about sharing knowledge & building tech communities.
 
 日本語 (Japanese):
-私はFPT大学でソフトウェア工学を専攻している情報技術の学生です。高校時代（9年生から12年生まで）に毎年奨学金を獲得し、大学ではFPT大学の上位10％奨学金を受けることができました。
-
-学業だけでなく、知識を共有し、コミュニティを築くことにも情熱を注いでいます。私は「Thuần Lại Lập Trình」というYouTubeチャンネルを運営し、ITチュートリアルや学習経験を発信しています。また、IT教育のための個人サイトを運営し、Discord・Zalo・Facebookを中心に1,000人以上の自学コミュニティを主導しています。
-
-FPT大学で優秀学生として認められたことを誇りに思い、これからも学び、革新し、世界のITコミュニティに貢献していくことを目標としています。
+FPT大学ソフトウェア工学専攻のIT学生｜上位10％奨学金受賞｜「Thuần Lại Lập Trình」(YouTube・サイト・1,000人以上のコミュニティ)の創設者｜知識共有とITコミュニティづくりに情熱を持っています。
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/ym7nsRnG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tran.van.thuan.499718) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@Thuan_lai_lap_trinh) 
