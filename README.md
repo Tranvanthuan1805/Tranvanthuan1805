@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ TRẦN VĂN THUẦN // <span style="color:#00f7ff">SYSTEM ONLINE</span>
+# ⚡ TRẦN VĂN THUẦN</span>
 
 ### CEO & Founder @ DUO TECH
 ### Software Engineer • Full-stack Developer • AI Product Builder
