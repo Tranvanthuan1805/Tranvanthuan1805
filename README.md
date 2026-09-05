@@ -18,32 +18,16 @@
 ---
 
 <div align="center">
-
-<img src="./assets/dev-coding.svg" alt="Developer coding at a futuristic desk" width="100%" />
-
+<img src="./assets/dev-coding.svg" alt="Animated developer coding at a futuristic desk" width="100%" />
 </div>
 
 ---
 
 ## 🖥️ SYSTEM STATUS
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  USER        : TRAN VAN THUAN                              │
-│  ROLE        : CEO / SOFTWARE ENGINEER                     │
-│  COMPANY     : DUO TECH                                    │
-│  EDUCATION   : FPT UNIVERSITY                              │
-│  LOCATION    : VIETNAM                                     │
-│  STATUS      : ONLINE                                      │
-│                                                            │
-│  CURRENT     : BUILDING DIGITAL PRODUCTS                   │
-│  MODE        : PRODUCT + ENGINEERING + AI                   │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-> `$ initialize portfolio --mode founder`
+<div align="center">
+<img src="./assets/system-status.svg" alt="Animated system status dashboard" width="100%" />
+</div>
 
 ---
 
@@ -61,9 +45,11 @@ I build software products by connecting **engineering, product thinking, AI and 
 - 🤖 Interested in AI-powered products and automation
 - 💻 Focused on practical, production-ready software
 
-```text
-IDEA → PRODUCT → ARCHITECTURE → CODE → DEPLOY → GROW
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=500&color=7C4DFF&center=true&vCenter=true&width=700&lines=IDEA+%E2%86%92+PRODUCT+%E2%86%92+ARCHITECTURE+%E2%86%92+CODE+%E2%86%92+DEPLOY+%E2%86%92+GROW;BUILDING+IS+MY+DEFAULT+MODE...;TURNING+IDEAS+INTO+REAL+SOFTWARE" alt="Animated build pipeline" />
+
+</div>
 
 ---
 
@@ -111,19 +97,16 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 ## 🚀 FEATURED PROJECTS
 
 ### 🎓 EZ LUYỆN THI
-
 Educational practice platform focused on interactive learning and exam preparation.
 
 `Education` `Web Platform` `AI` `Product`
 
 ### 🏗️ MASTER HOUSING
-
 Construction ecosystem and project management platform integrating digital workflows and AI-powered capabilities.
 
 `Construction` `Management System` `AI` `Web Application`
 
 ### 💡 DUO TECH PROJECTS
-
 Custom software systems for businesses, including web platforms, management systems, educational products and AI integrations.
 
 `Custom Software` `Business Solutions` `AI Integration`
@@ -133,14 +116,10 @@ Custom software systems for businesses, including web platforms, management syst
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <br /><br />
-
 <img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
@@ -195,7 +174,6 @@ STATUS: BUILDING...
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
-
 <a href="https://github.com/Tranvanthuan1805">GitHub</a> •
 <a href="https://www.youtube.com/@Tran_Van_Thuan">YouTube</a> •
 <a href="https://www.facebook.com/tran.van.thuan.499718">Facebook</a>
@@ -209,5 +187,4 @@ STATUS: BUILDING...
 <br /><br />
 
 `SYSTEM ONLINE • KEEP BUILDING • KEEP LEARNING • KEEP SHIPPING`
-
 </div>
