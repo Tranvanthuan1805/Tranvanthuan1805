@@ -9,15 +9,17 @@
 
 <br />
 
-<a href="https://github.com/Tranvanthuan1805">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.facebook.com/tran.van.thuan.499718">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.youtube.com/@Thuan_lai_lap_trinh">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
+<a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/dev-coding.svg" alt="Developer coding at a futuristic desk" width="100%" />
 
 </div>
 
@@ -57,7 +59,7 @@ I build software products by connecting **engineering, product thinking, AI and 
 - 🚀 Founder of **Thuần Lại Lập Trình**
 - 👥 Built a 1,000+ member learning community
 - 🤖 Interested in AI-powered products and automation
-- 💻 Focused on building practical, production-ready software
+- 💻 Focused on practical, production-ready software
 
 ```text
 IDEA → PRODUCT → ARCHITECTURE → CODE → DEPLOY → GROW
@@ -80,9 +82,7 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 🚀 Digital Products
 ```
 
-**My role:**
-
-`CEO` `Product` `Technology` `Architecture` `Engineering`
+**My role:** `CEO` `Product` `Technology` `Architecture` `Engineering`
 
 > Building a company is not only about writing code — it's about solving the right problem with the right system.
 
@@ -92,38 +92,19 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Strapi](https://img.shields.io/badge/Strapi-111111?style=for-the-badge&logo=strapi&logoColor=8E75FF)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E) ![Strapi](https://img.shields.io/badge/Strapi-111111?style=for-the-badge&logo=strapi&logoColor=8E75FF) ![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E) ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1) ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248) ![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 
 ### Tools & Cloud
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032) ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900) ![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
 
@@ -131,25 +112,21 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 
 ### 🎓 EZ LUYỆN THI
 
-An educational practice platform focused on helping students prepare through interactive learning and practice experiences.
+Educational practice platform focused on interactive learning and exam preparation.
 
-**Focus:** `Education` `Web Platform` `AI` `Product`
-
----
+`Education` `Web Platform` `AI` `Product`
 
 ### 🏗️ MASTER HOUSING
 
-A construction ecosystem and project management platform designed to connect workflows, information and AI-powered capabilities.
+Construction ecosystem and project management platform integrating digital workflows and AI-powered capabilities.
 
-**Focus:** `Construction` `Management System` `AI` `Web Application`
-
----
+`Construction` `Management System` `AI` `Web Application`
 
 ### 💡 DUO TECH PROJECTS
 
 Custom software systems for businesses, including web platforms, management systems, educational products and AI integrations.
 
-**Focus:** `Custom Software` `Business Solutions` `AI Integration`
+`Custom Software` `Business Solutions` `AI Integration`
 
 ---
 
@@ -158,7 +135,6 @@ Custom software systems for businesses, including web platforms, management syst
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br /><br />
@@ -172,9 +148,7 @@ Custom software systems for businesses, including web platforms, management syst
 ## 🏆 ACHIEVEMENTS
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Tranvanthuan1805&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
 </div>
 
 ---
@@ -199,8 +173,20 @@ STATUS: BUILDING...
 ## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📺 YOUTUBE
+
+<div align="center">
+
+### Coding • Software Engineering • AI • Building Products
+
+<a href="https://www.youtube.com/@Tran_Van_Thuan">
+<img src="https://img.shields.io/badge/WATCH_MY_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my YouTube channel" />
+</a>
 
 </div>
 
@@ -211,8 +197,8 @@ STATUS: BUILDING...
 <div align="center">
 
 <a href="https://github.com/Tranvanthuan1805">GitHub</a> •
-<a href="https://www.facebook.com/tran.van.thuan.499718">Facebook</a> •
-<a href="https://www.youtube.com/@Thuan_lai_lap_trinh">YouTube</a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan">YouTube</a> •
+<a href="https://www.facebook.com/tran.van.thuan.499718">Facebook</a>
 
 <br /><br />
 
