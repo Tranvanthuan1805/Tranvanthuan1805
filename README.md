@@ -23,8 +23,6 @@
 ---
 
 ## 👨‍💻 ABOUT ME
-<div align="center"><img src="./assets/about-me.svg" alt="Animated about me banner" width="100%" /></div>
-
 I'm **Trần Văn Thuần**, a Software Engineering student at **FPT University** and the **CEO & Founder of DUO TECH**.
 
 I build software products by connecting **engineering, product thinking, AI and business** — from the first idea to architecture, development and deployment.
@@ -72,10 +70,7 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 
 ## 📊 GITHUB ANALYTICS
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-<br /><br />
-<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="./assets/github-analytics.svg" alt="Animated GitHub Analytics dashboard" width="100%" />
 </div>
 
 ---
@@ -87,16 +82,12 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 
 ## ✨ HIGHLIGHTS
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=450&color=00F7FF&center=true&vCenter=true&width=760&lines=PROBLEM+SOLVER;PRODUCT+BUILDER;AI+EXPLORER;SOFTWARE+ENGINEER;FOUNDER+MINDSET" alt="Animated highlights" />
-
 <br />
-
 <img src="https://img.shields.io/badge/PROBLEM_SOLVER-0b1020?style=for-the-badge&logo=target&logoColor=00f7ff" />
 <img src="https://img.shields.io/badge/PRODUCT_BUILDER-0b1020?style=for-the-badge&logo=rocket&logoColor=ff7bdc" />
 <img src="https://img.shields.io/badge/AI_EXPLORER-0b1020?style=for-the-badge&logo=openai&logoColor=5ff0a5" />
 <img src="https://img.shields.io/badge/FOUNDER_MINDSET-0b1020?style=for-the-badge&logo=github&logoColor=7c4dff" />
-
 </div>
 
 ---
@@ -107,18 +98,9 @@ At **DUO TECH**, I work on turning business ideas into real software systems.
 ---
 
 ## 📺 YOUTUBE
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=600&color=FF4D6D&center=true&vCenter=true&width=760&lines=CODING+%E2%80%A2+SOFTWARE+ENGINEERING+%E2%80%A2+AI+%E2%80%A2+BUILDING+PRODUCTS;SUBSCRIBE+%E2%86%92+LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="YouTube animation" />
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/▶_WATCH_MY_CHANNEL-ff1f3d?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=600&color=FF4D6D&center=true&vCenter=true&width=760&lines=CODING+%E2%80%A2+SOFTWARE+ENGINEERING+%E2%80%A2+AI+%E2%80%A2+BUILDING+PRODUCTS;SUBSCRIBE+%E2%86%92+LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="YouTube animation" /><br /><a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/▶_WATCH_MY_CHANNEL-ff1f3d?style=for-the-badge&logo=youtube&logoColor=white" /></a></div>
 
 ---
 
 ## 🌐 CONNECT WITH ME
-<div align="center">
-<a href="https://github.com/Tranvanthuan1805">GitHub</a> • <a href="https://www.youtube.com/@Tran_Van_Thuan">YouTube</a> • <a href="https://www.facebook.com/tran.van.thuan.499718">Facebook</a>
-<br /><br />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=720&lines=LET'S+BUILD+SOMETHING+MEANINGFUL.;SYSTEM+ONLINE+%E2%80%A2+KEEP+BUILDING+%E2%80%A2+KEEP+LEARNING+%E2%80%A2+KEEP+SHIPPING" alt="Animated closing message" />
-<br />
-<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&label=PROFILE%20VISITORS&color=00F7FF&style=flat" alt="Profile visitors" />
-</div>
+<div align="center"><a href="https://github.com/Tranvanthuan1805">GitHub</a> • <a href="https://www.youtube.com/@Tran_Van_Thuan">YouTube</a> • <a href="https://www.facebook.com/tran.van.thuan.499718">Facebook</a><br /><br /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=720&lines=LET'S+BUILD+SOMETHING+MEANINGFUL.;SYSTEM+ONLINE+%E2%80%A2+KEEP+BUILDING+%E2%80%A2+KEEP+LEARNING+%E2%80%A2+KEEP+SHIPPING" alt="Animated closing message" /><br /><img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&label=PROFILE%20VISITORS&color=00F7FF&style=flat" alt="Profile visitors" /></div>
