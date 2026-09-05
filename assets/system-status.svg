@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 390">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#00f7ff"/><stop offset=".5" stop-color="#7c4dff"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .mono{font-family:monospace}.blink{animation:blink 1s steps(2,end) infinite}.pulse{animation:pulse 1.8s ease-in-out infinite}.scan{animation:scan 3.5s linear infinite}.float{animation:float 3s ease-in-out infinite}@keyframes blink{50%{opacity:.15}}@keyframes pulse{50%{opacity:.35;transform:scale(1.08)}}@keyframes scan{from{transform:translateY(-120px)}to{transform:translateY(430px)}}@keyframes float{50%{transform:translateY(-6px)}}
+  </style>
+</defs>
+<rect width="1100" height="390" rx="22" fill="#0a0e17"/>
+<rect x="1" y="1" width="1098" height="388" rx="21" fill="none" stroke="#2c3850"/>
+<circle cx="1010" cy="70" r="90" fill="#00f7ff" opacity=".05" filter="url(#glow)"/>
+<circle cx="900" cy="300" r="110" fill="#7c4dff" opacity=".05" filter="url(#glow)"/>
+<g class="scan" opacity=".22"><rect x="20" y="0" width="1060" height="2" fill="url(#g)"/></g>
+<text x="38" y="45" class="mono" font-size="16" fill="#72809c">root@thuandev:~$</text>
+<text x="38" y="82" class="mono" font-size="26" font-weight="700" fill="#f4f7ff">SYSTEM STATUS</text>
+<circle cx="278" cy="76" r="7" fill="#5ff0a5" filter="url(#glow)" class="pulse"/>
+<text x="296" y="82" class="mono" font-size="14" fill="#5ff0a5">ONLINE</text>
+<rect x="38" y="108" width="670" height="232" rx="16" fill="#0f1521" stroke="#33405b"/>
+<g class="mono" font-size="16">
+<text x="64" y="140" fill="#00f7ff">USER</text><text x="205" y="140" fill="#687692">:</text><text x="228" y="140" fill="#f2f5ff">TRAN VAN THUAN</text>
+<text x="64" y="168" fill="#ff7bdc">ROLE</text><text x="205" y="168" fill="#687692">:</text><text x="228" y="168" fill="#f2f5ff">CEO / SOFTWARE ENGINEER</text>
+<text x="64" y="196" fill="#00f7ff">COMPANY</text><text x="205" y="196" fill="#687692">:</text><text x="228" y="196" fill="#f2f5ff">DUO TECH</text>
+<text x="64" y="224" fill="#ff7bdc">EDUCATION</text><text x="205" y="224" fill="#687692">:</text><text x="228" y="224" fill="#f2f5ff">FPT UNIVERSITY</text>
+<text x="64" y="252" fill="#00f7ff">LOCATION</text><text x="205" y="252" fill="#687692">:</text><text x="228" y="252" fill="#f2f5ff">VIETNAM</text>
+<text x="64" y="280" fill="#ff7bdc">STATUS</text><text x="205" y="280" fill="#687692">:</text><text x="228" y="280" fill="#5ff0a5">● ONLINE</text>
+<text x="64" y="316" fill="#00f7ff">MODE</text><text x="205" y="316" fill="#687692">:</text><text x="228" y="316" fill="#f2f5ff">PRODUCT + ENGINEERING + AI</text>
+</g>
+<g class="float">
+<rect x="755" y="112" width="305" height="82" rx="15" fill="#101827" stroke="url(#g)"/>
+<text x="780" y="142" class="mono" font-size="13" fill="#7585a3">SYSTEM LOAD</text>
+<text x="780" y="174" class="mono" font-size="22" fill="#fff">██████████ 98%</text>
+<rect x="755" y="210" width="305" height="130" rx="15" fill="#101827" stroke="#33405b"/>
+<text x="780" y="240" class="mono" font-size="13" fill="#7585a3">ACTIVE PROCESSES</text>
+<text x="780" y="268" class="mono" font-size="14" fill="#5ff0a5">✓ DUO TECH</text>
+<text x="780" y="293" class="mono" font-size="14" fill="#00f7ff">✓ AI PRODUCT</text>
+<text x="780" y="318" class="mono" font-size="14" fill="#ff7bdc">✓ SOFTWARE BUILD</text>
+</g>
+<text x="38" y="372" class="mono" font-size="13" fill="#55647f">$ initialize portfolio --mode founder <tspan class="blink" fill="#00f7ff">▌</tspan></text>
+</svg>
