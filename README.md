@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero.svg" width="100%" alt="Tran Van Thuan — Full-stack Software Engineer, AI Builder and Business Analyst"/>
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero.svg?v=20261031" width="100%" alt="Tran Van Thuan — Full-stack Software Engineer, AI Builder and Business Analyst"/>
 
 <br/>
 
@@ -26,7 +26,9 @@
 
 ---
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-about.svg" width="100%" alt="👋 About Me section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-about.svg" width="100%" alt="👋 About Me section header"/>
+</div>
 
 I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University** and **Founder & CEO of DUOTECH TECHNOLOGY JOINT STOCK COMPANY**.
 
@@ -36,13 +38,17 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 > **From business requirements to production-ready products — I connect the entire journey.**
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-expertise.svg" width="100%" alt="🚀 Core Expertise section header"/>\n</div>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-roles.svg" width="100%" alt="Core expertise: Full-stack software engineering, AI application building, and business analysis"/>
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-expertise.svg" width="100%" alt="🚀 Core Expertise section header"/>
 </div>
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-technology.svg" width="100%" alt="🧰 Technology & Tools section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-roles.svg?v=20261031" width="100%" alt="Core expertise: Full-stack software engineering, AI application building, and business analysis"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-technology.svg" width="100%" alt="🧰 Technology & Tools section header"/>
+</div>
 
 <div align="center">
 
@@ -64,7 +70,9 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 </div>
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-projects.svg" width="100%" alt="✨ Selected Projects section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-projects.svg" width="100%" alt="✨ Selected Projects section header"/>
+</div>
 
 | Project | Product / Business Value | Contribution Focus |
 |:--|:--|:--|
@@ -74,7 +82,9 @@ My strength is connecting **engineering execution, AI innovation, and business a
 | **Hotel & Business Systems** | Web platforms and operational systems for business clients | Full-stack engineering · Project delivery |
 | **3D Ticketing Experience** | Interactive 3D ticketing experience for live entertainment | Product and technical coordination |
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-leadership.svg" width="100%" alt="🏆 Leadership & Highlights section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-leadership.svg" width="100%" alt="🏆 Leadership & Highlights section header"/>
+</div>
 
 - **Founder & CEO — DUOTECH TECHNOLOGY JOINT STOCK COMPANY:** Leading product direction, technology initiatives, client collaboration, and project delivery.
 - **FPT University:** Software Engineering.
@@ -83,7 +93,9 @@ My strength is connecting **engineering execution, AI innovation, and business a
 - **Community Building:** Built and supported a learning community of 1,000+ members.
 - **Cross-functional mindset:** Comfortable working with clients, developers, designers, testers, and business stakeholders.
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-languages.svg" width="100%" alt="🌐 Languages section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-languages.svg" width="100%" alt="🌐 Languages section header"/>
+</div>
 
 <div align="center">
 
@@ -93,7 +105,9 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 </div>
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-analytics.svg" width="100%" alt="📊 GitHub Analytics section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-analytics.svg" width="100%" alt="📊 GitHub Analytics section header"/>
+</div>
 
 <div align="center">
 
@@ -106,7 +120,9 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 </div>
 
-<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-connect.svg" width="100%" alt="🤝 Let's Connect section header"/>\n</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-connect.svg" width="100%" alt="🤝 Let's Connect section header"/>
+</div>
 
 I'm open to collaboration, product-building opportunities, and conversations around **software engineering, AI applications, digital products, and business analysis**.
 
