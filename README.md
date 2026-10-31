@@ -28,7 +28,7 @@
 
 <div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-about.svg" width="100%" alt="👋 About Me section header"/>\n</div>
 
-I'm **Trần Văn Thuần**, a Software Engineering student at **FPT University** and **Founder & CEO of DUOTECH TECHNOLOGY JOINT STOCK COMPANY**.
+I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University** and **Founder & CEO of DUOTECH TECHNOLOGY JOINT STOCK COMPANY**.
 
 I work across the complete digital product lifecycle — from understanding business needs and defining requirements to engineering full-stack applications, integrating AI capabilities, and delivering solutions for real users.
 
