@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".48" stop-color="#09295b"/><stop offset="1" stop-color="#35106b"/></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset=".55" stop-color="#477bff"/><stop offset="1" stop-color="#d36bff"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".48" stop-color="#092B63"/><stop offset="1" stop-color="#35106B"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5FF"/><stop offset=".55" stop-color="#6475FF"/><stop offset="1" stop-color="#E879F9"/></linearGradient>
  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8bbcff" stroke-opacity=".12" stroke-width="1"/></pattern>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8bbcff" stroke-opacity=".12"/></pattern>
 </defs>
-<rect width="1200" height="340" rx="28" fill="url(#bg)"/><rect width="1200" height="340" rx="28" fill="url(#grid)"/>
-<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".8" filter="url(#glow)"><path d="M0 250 C180 170 230 310 420 220 S760 100 930 205 S1080 255 1200 135"/><path d="M0 280 C190 205 280 330 470 255 S790 140 970 235 S1100 270 1200 190" opacity=".5"/><circle cx="1010" cy="85" r="72"/><circle cx="1010" cy="85" r="94" opacity=".35"/></g>
-<g fill="#fff" opacity=".75"><circle cx="85" cy="70" r="2"/><circle cx="260" cy="38" r="2"/><circle cx="780" cy="58" r="2"/><circle cx="1130" cy="280" r="2"/><circle cx="690" cy="295" r="2"/></g>
-<text x="70" y="92" fill="#8be9ff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">FOUNDER  /  SOFTWARE ENGINEER  /  AI BUILDER</text>
-<text x="66" y="166" fill="#fff" font-family="Arial,sans-serif" font-size="58" font-weight="800">TRẦN VĂN THUẦN</text>
-<text x="70" y="213" fill="#dbeafe" font-family="Arial,sans-serif" font-size="24" font-weight="600">FULL-STACK ENGINEER  •  AI APPLICATION BUILDER  •  BUSINESS ANALYST</text>
-<text x="70" y="260" fill="#9fb9e9" font-family="Arial,sans-serif" font-size="19">CEO  |  DUOTECH TECHNOLOGY JOINT STOCK COMPANY</text>
-<rect x="70" y="288" width="330" height="4" rx="2" fill="url(#line)"/>
-<text x="1110" y="318" text-anchor="end" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">BUILD • ENGINEER • DELIVER</text>
+<rect width="1200" height="350" rx="28" fill="url(#bg)"/><rect width="1200" height="350" rx="28" fill="url(#grid)"/>
+<g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8" filter="url(#glow)"><path d="M0 250 C180 170 230 310 420 220 S760 100 930 205 S1080 255 1200 135"><animate attributeName="stroke-dasharray" values="0 1800;900 900;1800 0" dur="9s" repeatCount="indefinite"/></path><path d="M0 280 C190 205 280 330 470 255 S790 140 970 235 S1100 270 1200 190" opacity=".5"><animate attributeName="opacity" values=".15;.7;.15" dur="4s" repeatCount="indefinite"/></path><circle cx="1010" cy="85" r="72"><animate attributeName="r" values="65;83;65" dur="5s" repeatCount="indefinite"/></circle><circle cx="1010" cy="85" r="94" opacity=".35"><animate attributeName="r" values="88;108;88" dur="5s" repeatCount="indefinite"/></circle></g>
+<g fill="#fff"><circle cx="85" cy="70" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="260" cy="38" r="2"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle><circle cx="780" cy="58" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle></g>
+<text x="70" y="92" fill="#8BE9FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5">FOUNDER  /  SOFTWARE ENGINEER  /  AI BUILDER</text>
+<text x="66" y="166" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">TRẦN VĂN THUẦN</text>
+<text x="70" y="213" fill="#DBEAFE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">FULL-STACK ENGINEER  •  AI APPLICATION BUILDER  •  BUSINESS ANALYST</text>
+<text x="70" y="260" fill="#A5B4FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">CEO  |  DUOTECH TECHNOLOGY JOINT STOCK COMPANY</text>
+<rect x="70" y="288" width="330" height="4" rx="2" fill="url(#neon)"><animate attributeName="width" values="80;460;330" dur="4s" repeatCount="indefinite"/></rect>
+<text x="1110" y="318" text-anchor="end" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="3">BUILD • ENGINEER • DELIVER</text>
 </svg>
