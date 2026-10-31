@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero.svg?v=20261031" width="100%" alt="Tran Van Thuan — Full-stack Software Engineer, AI Builder and Business Analyst"/>
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero-felix-v2.svg" width="100%" alt="Tran Van Thuan — Full-stack Software Engineer, AI Builder and Business Analyst"/>
 
 <br/>
 
