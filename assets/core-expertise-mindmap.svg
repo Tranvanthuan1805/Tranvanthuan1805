@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#10102C"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+ <linearGradient id="violet"><stop stop-color="#818CF8"/><stop offset="1" stop-color="#D879F9"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="4" y="4" width="1192" height="492" rx="24" fill="url(#bg)" stroke="#334155"/>
+<g fill="none" stroke-width="4" opacity=".95">
+ <path d="M600 255 C500 255 450 255 360 255" stroke="url(#cyan)"><animate attributeName="stroke-dasharray" values="0 300;300 0" dur="2.8s" repeatCount="indefinite"/></path>
+ <path d="M600 255 C600 190 600 155 600 125" stroke="url(#violet)"><animate attributeName="stroke-dasharray" values="0 220;220 0" dur="3.2s" repeatCount="indefinite"/></path>
+ <path d="M600 255 C700 255 750 255 840 255" stroke="#2DD4BF"><animate attributeName="stroke-dasharray" values="0 300;300 0" dur="3.6s" repeatCount="indefinite"/></path>
+</g>
+<g filter="url(#glow)">
+ <rect x="25" y="145" width="335" height="225" rx="22" fill="#0B2946" stroke="#22D3EE" stroke-width="2.5"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/></rect>
+ <rect x="425" y="20" width="350" height="170" rx="22" fill="#21143E" stroke="#A78BFA" stroke-width="2.5"><animate attributeName="stroke-opacity" values="1;.45;1" dur="3.5s" repeatCount="indefinite"/></rect>
+ <rect x="840" y="145" width="335" height="225" rx="22" fill="#0B2E3A" stroke="#2DD4BF" stroke-width="2.5"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="4s" repeatCount="indefinite"/></rect>
+ <circle cx="600" cy="270" r="83" fill="#101F42" stroke="url(#cyan)" stroke-width="3"><animate attributeName="r" values="80;86;80" dur="3s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+ <text x="600" y="252" fill="#9BEAFF" font-size="15" font-weight="700" letter-spacing="2">CORE IDENTITY</text><text x="600" y="286" fill="#FFFFFF" font-size="26" font-weight="700">PRODUCT</text><text x="600" y="316" fill="#FFFFFF" font-size="26" font-weight="700">BUILDER</text>
+ <text x="192" y="190" fill="#67E8F9" font-size="22" font-weight="700">01 · FULL-STACK ENGINEER</text><text x="192" y="235" fill="#FFFFFF" font-size="17">Frontend &amp; responsive UI</text><text x="192" y="269" fill="#FFFFFF" font-size="17">Backend &amp; REST APIs</text><text x="192" y="303" fill="#FFFFFF" font-size="17">Database &amp; authentication</text><text x="192" y="337" fill="#CBD5E1" font-size="15">Build · Integrate · Deploy</text>
+ <text x="600" y="65" fill="#C4B5FD" font-size="22" font-weight="700">02 · AI APPLICATION BUILDER</text><text x="600" y="105" fill="#FFFFFF" font-size="17">LLM &amp; AI API integration</text><text x="600" y="135" fill="#FFFFFF" font-size="17">Chatbots · RAG · Automation</text><text x="600" y="163" fill="#CBD5E1" font-size="15">Turn AI into useful product features</text>
+ <text x="1008" y="190" fill="#5EEAD4" font-size="22" font-weight="700">03 · BUSINESS ANALYST</text><text x="1008" y="235" fill="#FFFFFF" font-size="17">Stakeholder communication</text><text x="1008" y="269" fill="#FFFFFF" font-size="17">Requirements · SRS · Use cases</text><text x="1008" y="303" fill="#FFFFFF" font-size="17">User stories &amp; acceptance criteria</text><text x="1008" y="337" fill="#CBD5E1" font-size="15">Discover · Define · Validate</text>
+</g>
+<text x="600" y="445" text-anchor="middle" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">ENGINEERING  +  ARTIFICIAL INTELLIGENCE  +  BUSINESS THINKING</text>
+</svg>
