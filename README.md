@@ -26,7 +26,7 @@
 
 ---
 
-## 👋 About Me
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-about.svg" width="100%" alt="👋 About Me section header"/>\n</div>
 
 I'm **Trần Văn Thuần**, a Software Engineering student at **FPT University** and **Founder & CEO of DUOTECH TECHNOLOGY JOINT STOCK COMPANY**.
 
@@ -36,35 +36,35 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 > **From business requirements to production-ready products — I connect the entire journey.**
 
-## 🚀 Core Expertise
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-expertise.svg" width="100%" alt="🚀 Core Expertise section header"/>\n</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-roles.svg" width="100%" alt="Core expertise: Full-stack software engineering, AI application building, and business analysis"/>
 </div>
 
-## 🧰 Technology & Tools
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-technology.svg" width="100%" alt="🧰 Technology & Tools section header"/>\n</div>
 
 <div align="center">
 
-**Programming Languages**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=67E8F9&center=true&vCenter=true&width=420&lines=PROGRAMMING+LANGUAGES" alt="Programming languages"/>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript"/>
 
-**Frontend Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=8B9CFF&center=true&vCenter=true&width=420&lines=FRONTEND+ENGINEERING" alt="Frontend engineering"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js, Tailwind CSS"/>
 
-**Backend, Database & Cloud**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=420&lines=BACKEND%2C+DATABASE+%26+CLOUD" alt="Backend, database and cloud"/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS"/>
 
-**Development Workflow & Design**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=5EEAD4&center=true&vCenter=true&width=460&lines=DEVELOPMENT+WORKFLOW+%26+DESIGN" alt="Development workflow and design"/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma, VS Code"/>
 
 </div>
 
-## ✨ Selected Projects
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-projects.svg" width="100%" alt="✨ Selected Projects section header"/>\n</div>
 
 | Project | Product / Business Value | Contribution Focus |
 |:--|:--|:--|
@@ -74,7 +74,7 @@ My strength is connecting **engineering execution, AI innovation, and business a
 | **Hotel & Business Systems** | Web platforms and operational systems for business clients | Full-stack engineering · Project delivery |
 | **3D Ticketing Experience** | Interactive 3D ticketing experience for live entertainment | Product and technical coordination |
 
-## 🏆 Leadership & Highlights
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-leadership.svg" width="100%" alt="🏆 Leadership & Highlights section header"/>\n</div>
 
 - **Founder & CEO — DUOTECH TECHNOLOGY JOINT STOCK COMPANY:** Leading product direction, technology initiatives, client collaboration, and project delivery.
 - **FPT University:** Software Engineering.
@@ -83,7 +83,7 @@ My strength is connecting **engineering execution, AI innovation, and business a
 - **Community Building:** Built and supported a learning community of 1,000+ members.
 - **Cross-functional mindset:** Comfortable working with clients, developers, designers, testers, and business stakeholders.
 
-## 🌐 Languages
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-languages.svg" width="100%" alt="🌐 Languages section header"/>\n</div>
 
 <div align="center">
 
@@ -93,7 +93,7 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 </div>
 
-## 📊 GitHub Analytics
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-analytics.svg" width="100%" alt="📊 GitHub Analytics section header"/>\n</div>
 
 <div align="center">
 
@@ -106,7 +106,7 @@ My strength is connecting **engineering execution, AI innovation, and business a
 
 </div>
 
-## 🤝 Let's Connect
+<div align="center">\n<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-connect.svg" width="100%" alt="🤝 Let's Connect section header"/>\n</div>
 
 I'm open to collaboration, product-building opportunities, and conversations around **software engineering, AI applications, digital products, and business analysis**.
 
