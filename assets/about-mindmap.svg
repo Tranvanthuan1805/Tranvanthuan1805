@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#10102C"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+ <linearGradient id="violet"><stop stop-color="#818CF8"/><stop offset="1" stop-color="#D879F9"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="4" y="4" width="1192" height="512" rx="24" fill="url(#bg)" stroke="#334155"/>
+<g fill="none" stroke-width="3" opacity=".9">
+ <path d="M600 260 C500 210 440 150 330 120" stroke="url(#cyan)"><animate attributeName="stroke-dasharray" values="0 420;420 0" dur="3s" repeatCount="indefinite"/></path>
+ <path d="M600 260 C700 210 760 150 870 120" stroke="url(#violet)"><animate attributeName="stroke-dasharray" values="0 420;420 0" dur="3.4s" repeatCount="indefinite"/></path>
+ <path d="M600 260 C500 310 440 370 330 400" stroke="url(#violet)"><animate attributeName="stroke-dasharray" values="0 420;420 0" dur="3.8s" repeatCount="indefinite"/></path>
+ <path d="M600 260 C700 310 760 370 870 400" stroke="url(#cyan)"><animate attributeName="stroke-dasharray" values="0 420;420 0" dur="4.2s" repeatCount="indefinite"/></path>
+</g>
+<g filter="url(#glow)">
+ <rect x="410" y="190" width="380" height="140" rx="26" fill="#101F42" stroke="url(#cyan)" stroke-width="3"><animate attributeName="stroke-opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/></rect>
+ <rect x="30" y="35" width="340" height="165" rx="20" fill="#0B2946" stroke="#22D3EE" stroke-width="2"/>
+ <rect x="830" y="35" width="340" height="165" rx="20" fill="#21143E" stroke="#A78BFA" stroke-width="2"/>
+ <rect x="30" y="320" width="340" height="165" rx="20" fill="#171B3E" stroke="#818CF8" stroke-width="2"/>
+ <rect x="830" y="320" width="340" height="165" rx="20" fill="#0B2E3A" stroke="#2DD4BF" stroke-width="2"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+ <text x="600" y="246" fill="#9BEAFF" font-size="17" font-weight="700" letter-spacing="3">ABOUT THE BUILDER</text><text x="600" y="287" fill="#FFFFFF" font-size="35" font-weight="700">FELIX</text><text x="600" y="311" fill="#C7D2FE" font-size="15">TRAN VAN THUAN</text>
+ <text x="200" y="82" fill="#67E8F9" font-size="17" font-weight="700" letter-spacing="2">EDUCATION</text><text x="200" y="119" fill="#FFFFFF" font-size="22" font-weight="700">Software Engineering</text><text x="200" y="151" fill="#CBD5E1" font-size="17">FPT University</text><text x="200" y="176" fill="#94A3B8" font-size="14">Engineering foundation</text>
+ <text x="1000" y="82" fill="#C4B5FD" font-size="17" font-weight="700" letter-spacing="2">LEADERSHIP</text><text x="1000" y="119" fill="#FFFFFF" font-size="22" font-weight="700">Founder &amp; CEO</text><text x="1000" y="151" fill="#CBD5E1" font-size="17">DUOTECH TECHNOLOGY</text><text x="1000" y="176" fill="#94A3B8" font-size="14">People · Product · Delivery</text>
+ <text x="200" y="367" fill="#A5B4FC" font-size="17" font-weight="700" letter-spacing="2">PRODUCT LIFECYCLE</text><text x="200" y="405" fill="#FFFFFF" font-size="21" font-weight="700">Idea → Requirements</text><text x="200" y="435" fill="#CBD5E1" font-size="17">Engineering → Launch</text><text x="200" y="461" fill="#94A3B8" font-size="14">From concept to real users</text>
+ <text x="1000" y="367" fill="#5EEAD4" font-size="17" font-weight="700" letter-spacing="2">WORKING MINDSET</text><text x="1000" y="405" fill="#FFFFFF" font-size="21" font-weight="700">Business × Technology</text><text x="1000" y="435" fill="#CBD5E1" font-size="17">Understand · Build · Deliver</text><text x="1000" y="461" fill="#94A3B8" font-size="14">Focus on measurable value</text>
+</g>
+<g fill="#FFFFFF" filter="url(#glow)"><circle cx="600" cy="260" r="5"><animate attributeName="r" values="4;8;4" dur="2.5s" repeatCount="indefinite"/></circle></g>
+</svg>
