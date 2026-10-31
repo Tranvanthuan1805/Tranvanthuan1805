@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".48" stop-color="#09295b"/><stop offset="1" stop-color="#35106b"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset=".55" stop-color="#477bff"/><stop offset="1" stop-color="#d36bff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#8bbcff" stroke-opacity=".12" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="28" fill="url(#bg)"/><rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".8" filter="url(#glow)"><path d="M0 250 C180 170 230 310 420 220 S760 100 930 205 S1080 255 1200 135"/><path d="M0 280 C190 205 280 330 470 255 S790 140 970 235 S1100 270 1200 190" opacity=".5"/><circle cx="1010" cy="85" r="72"/><circle cx="1010" cy="85" r="94" opacity=".35"/></g>
+<g fill="#fff" opacity=".75"><circle cx="85" cy="70" r="2"/><circle cx="260" cy="38" r="2"/><circle cx="780" cy="58" r="2"/><circle cx="1130" cy="280" r="2"/><circle cx="690" cy="295" r="2"/></g>
+<text x="70" y="92" fill="#8be9ff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">FOUNDER  /  SOFTWARE ENGINEER  /  AI BUILDER</text>
+<text x="66" y="166" fill="#fff" font-family="Arial,sans-serif" font-size="58" font-weight="800">TRẦN VĂN THUẦN</text>
+<text x="70" y="213" fill="#dbeafe" font-family="Arial,sans-serif" font-size="24" font-weight="600">FULL-STACK ENGINEER  •  AI APPLICATION BUILDER  •  BUSINESS ANALYST</text>
+<text x="70" y="260" fill="#9fb9e9" font-family="Arial,sans-serif" font-size="19">CEO  |  DUOTECH TECHNOLOGY JOINT STOCK COMPANY</text>
+<rect x="70" y="288" width="330" height="4" rx="2" fill="url(#line)"/>
+<text x="1110" y="318" text-anchor="end" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">BUILD • ENGINEER • DELIVER</text>
+</svg>
