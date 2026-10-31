@@ -30,20 +30,18 @@
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-about.svg" width="100%" alt="👋 About Me section header"/>
 </div>
 
-I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University** and **Founder & CEO of DUOTECH TECHNOLOGY JOINT STOCK COMPANY**.
+<div align="center">
 
-I work across the complete digital product lifecycle — from understanding business needs and defining requirements to engineering full-stack applications, integrating AI capabilities, and delivering solutions for real users.
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-mindmap.svg" width="100%" alt="About Felix mind map: education, leadership, product lifecycle, and working mindset"/>
 
-My strength is connecting **engineering execution, AI innovation, and business analysis**. I don't just focus on how to build a product; I also care about why it should exist, who it serves, and what value it delivers.
-
-> **From business requirements to production-ready products — I connect the entire journey.**
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-expertise.svg" width="100%" alt="🚀 Core Expertise section header"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-roles.svg?v=20261031" width="100%" alt="Core expertise: Full-stack software engineering, AI application building, and business analysis"/>
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-expertise-mindmap.svg" width="100%" alt="Core expertise: Full-stack software engineering, AI application building, and business analysis"/>
 </div>
 
 <div align="center">
