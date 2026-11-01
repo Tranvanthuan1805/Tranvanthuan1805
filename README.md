@@ -25,30 +25,76 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
-### Engineering ideas into real-world products.
+<img src="https://img.shields.io/badge/HELLO%2C_I'M-FELIX-0D1117?style=for-the-badge&labelColor=0891B2" alt="Hello, I'm Felix" />
+
+### I turn ideas into products people can use.
 
 I'm **Trần Văn Thuần (Felix)** — a Software Engineering student at **FPT University**, and Founder & CEO of **DUOTECH TECHNOLOGY**.
 
-My work sits at the intersection of **software engineering, AI applications, and product development**. I enjoy understanding real business problems, shaping clear technical solutions, and helping teams turn ideas into reliable digital products.
+I work across **engineering, AI, and product development** — from understanding a business problem and shaping requirements to building and delivering practical digital solutions.
 
-I care about more than just writing code: I focus on product thinking, clean implementation, user experience, and meaningful outcomes.
+Rather than writing code for its own sake, I care about the whole journey: **clear thinking → thoughtful design → reliable engineering → real-world impact.**
 
-> **Build with purpose. Engineer with clarity. Create real impact.**
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-164E63?style=flat-square" alt="Software Engineering" />
+<img src="https://img.shields.io/badge/EXPLORING-AI%20Applications-4C1D95?style=flat-square" alt="AI Applications" />
+<img src="https://img.shields.io/badge/DRIVEN-Product%20Thinking-1E3A8A?style=flat-square" alt="Product Thinking" />
+
+<br/><br/>
+
+> **Build with purpose.**  
+> Engineer with clarity. Create real impact.
 
 </td>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
 
-### Quick Profile
+### ◈ PROFILE / 2026
 
 | | |
 |:--|:--|
-| **Role** | Founder & CEO |
-| **Company** | DUOTECH TECHNOLOGY |
-| **Education** | Software Engineering |
-| **University** | FPT University |
-| **Interests** | Software · AI · Product |
+| **01 / ROLE** | Founder & CEO |
+| **02 / COMPANY** | DUOTECH TECHNOLOGY |
+| **03 / STUDY** | Software Engineering |
+| **04 / CAMPUS** | FPT University |
+| **05 / INTERESTS** | Software · AI · Product |
+
+<br/>
+
+### CURRENTLY FOCUSED ON
+
+- Building useful digital products
+- Applying AI to real workflows
+- Connecting business needs with technology
+- Growing teams through clear execution
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### BUILD
+
+<sub>Software & AI solutions</sub>
+
+</td>
+<td align="center" width="33%">
+
+### LEAD
+
+<sub>People & product delivery</sub>
+
+</td>
+<td align="center" width="33%">
+
+### IMPROVE
+
+<sub>Learning through execution</sub>
 
 </td>
 </tr>
