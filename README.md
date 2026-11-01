@@ -1,44 +1,46 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Felix animated header" />
+<img src="assets/hero.svg" width="100%" alt="Animated neon profile banner" />
 
-<a href="https://github.com/Tranvanthuan1805">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+products+with+technology+and+purpose;Full-stack+%7C+AI+Applications+%7C+Product+Delivery;Founder+%26+CEO+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Software+Engineering+%7C+AI+Applications+%7C+Product;Turning+ideas+into+useful+technology" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B84F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YOUTUBE-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
----
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 01 / About
+## 01 — About Me
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="65%" valign="top">
 
-### Building products with technology and purpose.
+### Engineering ideas into real-world products.
 
-I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University** and Founder & CEO of **DUOTECH TECHNOLOGY**.
+I'm **Trần Văn Thuần (Felix)** — a Software Engineering student at **FPT University**, and Founder & CEO of **DUOTECH TECHNOLOGY**.
 
-I work across **software engineering, AI application development, and product delivery**. I enjoy turning complex requirements into practical digital products: from understanding the business problem and shaping the solution to coordinating development and delivery.
+My work sits at the intersection of **software engineering, AI applications, and product development**. I enjoy understanding real business problems, shaping clear technical solutions, and helping teams turn ideas into reliable digital products.
 
-**My focus:** useful technology, thoughtful execution, and measurable value.
+I care about more than just writing code: I focus on product thinking, clean implementation, user experience, and meaningful outcomes.
+
+> **Build with purpose. Engineer with clarity. Create real impact.**
 
 </td>
-<td width="38%" valign="top">
+<td width="35%" valign="top">
 
-### At a glance
+### Quick Profile
 
 | | |
 |:--|:--|
@@ -46,13 +48,15 @@ I work across **software engineering, AI application development, and product de
 | **Company** | DUOTECH TECHNOLOGY |
 | **Education** | Software Engineering |
 | **University** | FPT University |
-| **Focus** | Software · AI · Products |
+| **Interests** | Software · AI · Product |
 
 </td>
 </tr>
 </table>
 
-## 02 / What I Do
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
+
+## 02 — What I Do
 
 <table>
 <tr>
@@ -60,22 +64,22 @@ I work across **software engineering, AI application development, and product de
 
 ### ⌘ Software Engineering
 
-Build end-to-end web applications with maintainable architecture and practical user experiences.
+Design and build practical web applications with maintainable architecture.
 
 - Full-stack development
 - API & database design
-- Authentication & deployment
-- UI implementation
+- Authentication systems
+- Deployment & integration
 
 </td>
 <td width="33%" valign="top">
 
-### ✳ AI Product Development
+### ✳ AI Application Development
 
-Integrate AI capabilities into real workflows, products, and services.
+Bring AI capabilities into useful products and everyday workflows.
 
 - LLM & AI API integration
-- Chatbots & AI assistants
+- AI chatbots and assistants
 - AI-powered applications
 - Workflow automation
 
@@ -84,7 +88,7 @@ Integrate AI capabilities into real workflows, products, and services.
 
 ### ◈ Product & Leadership
 
-Connect business goals with engineering execution and product delivery.
+Connect business objectives with engineering execution.
 
 - Business analysis & SRS
 - Product planning
@@ -95,43 +99,45 @@ Connect business goals with engineering execution and product delivery.
 </tr>
 </table>
 
-## 03 / Technology Stack
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
+
+## 03 — Tech Stack
 
 <div align="center">
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" />
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
 
 **BACKEND · DATABASE · CLOUD**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws&theme=dark" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS" />
 
-**TOOLS & DESIGN**
+**TOOLS · DESIGN**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma, VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" alt="Git, GitHub, Vercel, Figma, VS Code" />
 
 </div>
 
-## 04 / Selected Work
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-*Selected products and systems across education, digital transformation, construction, hospitality, and entertainment.*
+## 04 — Selected Work
+
+<sub>A selection of products and systems across education, digital transformation, construction, hospitality, and entertainment.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/ez.svg" width="100%" alt="ez" />
-
 ### 🎓 EZ Luyện Thi
 
 Online learning and exam-practice platform.
 
-**Contribution**
+**Focus**
 - Product development
 - Full-stack implementation
 - Learning experience delivery
@@ -139,13 +145,11 @@ Online learning and exam-practice platform.
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/ayo.svg" width="100%" alt="ayo" />
-
 ### 🗺️ TAM THANH AYO
 
 Digital map initiative supporting local digital transformation.
 
-**Contribution**
+**Focus**
 - Business analysis
 - Requirements & workflow design
 - Product coordination
@@ -155,13 +159,11 @@ Digital map initiative supporting local digital transformation.
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/ai.svg" width="100%" alt="ai" />
-
 ### 🏗️ AI Construction Management
 
 Digital workflows and AI applications for construction operations.
 
-**Contribution**
+**Focus**
 - Product analysis
 - AI solution direction
 - Workflow design
@@ -169,13 +171,11 @@ Digital workflows and AI applications for construction operations.
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/hotel.svg" width="100%" alt="hotel" />
-
 ### 🏨 Hotel & Business Systems
 
 Web platforms and operational systems for business clients.
 
-**Contribution**
+**Focus**
 - Full-stack engineering
 - Client collaboration
 - Project delivery
@@ -185,81 +185,91 @@ Web platforms and operational systems for business clients.
 <tr>
 <td colspan="2" valign="top">
 
-<img src="assets/ticket.svg" width="100%" alt="ticket" />
-
 ### 🎟️ 3D Ticketing Experience
 
 Interactive 3D ticketing experience for live entertainment.
 
-**Contribution:** Product and technical coordination.
+**Focus:** Product and technical coordination.
 
 </td>
 </tr>
 </table>
 
-## 05 / Leadership & Highlights
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
+
+## 05 — Highlights
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-## 01
-**Founder & CEO**<br/>
-<sub>DUOTECH TECHNOLOGY</sub>
+### Founder & CEO
+
+DUOTECH TECHNOLOGY
 
 </td>
 <td align="center" width="25%">
 
-## Top 10%
-**Scholarship**<br/>
-<sub>FPT University</sub>
+### Top 10%
+
+FPT Scholarship
 
 </td>
 <td align="center" width="25%">
 
-## Winner
-**FPT WebDesign**<br/>
-<sub>Competition</sub>
+### Winner
+
+FPT WebDesign
 
 </td>
 <td align="center" width="25%">
 
-## 1,000+
-**Community**<br/>
-<sub>Learning community</sub>
+### 1,000+
+
+Learning Community
 
 </td>
 </tr>
 </table>
 
-## 06 / GitHub Activity
+</div>
+
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
+
+## 06 — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" height="170" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A78BFA&area=true" width="100%" alt="Contribution activity graph" />
 
-<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="90%" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9" width="90%" alt="GitHub contribution streak" />
 
 </div>
 
-## 07 / Let's Connect
+<img src="assets/ambient-divider.svg" width="100%" alt="" />
+
+## 07 — Let's Connect
 
 <div align="center">
 
-**Have an idea, a product challenge, or an opportunity to collaborate? Let's talk.**
+### Have an idea, a product challenge, or an opportunity to collaborate?
 
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Felix" /></a>
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/Explore-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Felix on YouTube" /></a>
+Let's build something meaningful together.
+
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-Email_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Felix" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/EXPLORE-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Felix on YouTube" /></a>
 
 <br/><br/>
 
 **BUILD WITH PURPOSE · ENGINEER WITH CLARITY · CREATE REAL IMPACT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0EA5E9,55:4F46E5,100:7C3AED" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:06B6D4,50:4F46E5,100:7C3AED" width="100%" alt="Animated gradient footer" />
 
 </div>
