@@ -106,8 +106,8 @@ A selection of products and systems I've contributed to across education, local 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
+<img height="190" src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-snapshot.svg" alt="Profile snapshot" />
+<img height="190" src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/technology-toolkit.svg" alt="Technology toolkit" />
 
 <br />
 
