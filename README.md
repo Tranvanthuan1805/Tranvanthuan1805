@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero-felix-v2.svg" width="100%" alt="Felix — Tran Van Thuan | Software Engineer, AI Builder and Founder" />
 
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/coding-hero-animation.svg" width="100%" alt="Animated illustration of Felix coding at a dual-monitor workstation" />
+
 <p>
   <a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
