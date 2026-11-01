@@ -1,20 +1,21 @@
-<!-- FELIX | GitHub Profile README -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/coding-hero-animation.svg" width="100%" alt="Animated developer workspace — Felix coding" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:4F46E5,100:7C3AED&height=200&section=header&text=Hi,%20I'm%20Felix&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Founder%20%26%20CEO%20at%20DUOTECH&descSize=18&descAlignY=60" width="100%" alt="Felix header" />
 
-<h1>Hi, I'm Felix 👋</h1>
-<h3>Software Engineer · AI Builder · Founder & CEO at DUOTECH</h3>
+<a href="https://github.com/Tranvanthuan1805">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+products+with+technology+and+purpose;Full-stack+%7C+AI+Applications+%7C+Product+Delivery;Founder+%26+CEO+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
+</a>
 
-<p>
-  <a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B84F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YOUTUBE-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)](https://github.com/Tranvanthuan1805)
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B84F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YOUTUBE-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -30,7 +31,7 @@
 
 I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University** and Founder & CEO of **DUOTECH TECHNOLOGY**.
 
-I work across **software engineering, AI application development, and product delivery**. I enjoy turning complex requirements into practical digital products — from understanding the business problem and shaping the solution to coordinating development and delivery.
+I work across **software engineering, AI application development, and product delivery**. I enjoy turning complex requirements into practical digital products: from understanding the business problem and shaping the solution to coordinating development and delivery.
 
 **My focus:** useful technology, thoughtful execution, and measurable value.
 
@@ -57,7 +58,7 @@ I work across **software engineering, AI application development, and product de
 <tr>
 <td width="33%" valign="top">
 
-<h3>⌘ Software Engineering</h3>
+### ⌘ Software Engineering
 
 Build end-to-end web applications with maintainable architecture and practical user experiences.
 
@@ -69,7 +70,7 @@ Build end-to-end web applications with maintainable architecture and practical u
 </td>
 <td width="33%" valign="top">
 
-<h3>✳ AI Product Development</h3>
+### ✳ AI Product Development
 
 Integrate AI capabilities into real workflows, products, and services.
 
@@ -81,7 +82,7 @@ Integrate AI capabilities into real workflows, products, and services.
 </td>
 <td width="33%" valign="top">
 
-<h3>◈ Product & Leadership</h3>
+### ◈ Product & Leadership
 
 Connect business goals with engineering execution and product delivery.
 
@@ -100,19 +101,19 @@ Connect business goals with engineering execution and product delivery.
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript and TypeScript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript" />
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
 
 **BACKEND · DATABASE · CLOUD**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker and AWS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS" />
 
 **TOOLS & DESIGN**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma, VS Code" />
 
 </div>
 
@@ -191,24 +192,32 @@ Interactive 3D ticketing experience for live entertainment.
 <table>
 <tr>
 <td align="center" width="25%">
-<h2>01</h2>
-<strong>Founder & CEO</strong><br/>
+
+## 01
+**Founder & CEO**<br/>
 <sub>DUOTECH TECHNOLOGY</sub>
+
 </td>
 <td align="center" width="25%">
-<h2>Top 10%</h2>
-<strong>Scholarship</strong><br/>
+
+## Top 10%
+**Scholarship**<br/>
 <sub>FPT University</sub>
+
 </td>
 <td align="center" width="25%">
-<h2>Winner</h2>
-<strong>FPT WebDesign</strong><br/>
+
+## Winner
+**FPT WebDesign**<br/>
 <sub>Competition</sub>
+
 </td>
 <td align="center" width="25%">
-<h2>1,000+</h2>
-<strong>Community</strong><br/>
+
+## 1,000+
+**Community**<br/>
 <sub>Learning community</sub>
+
 </td>
 </tr>
 </table>
@@ -217,7 +226,12 @@ Interactive 3D ticketing experience for live entertainment.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="90%" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="90%" alt="GitHub streak" />
 
 </div>
 
@@ -232,8 +246,8 @@ Interactive 3D ticketing experience for live entertainment.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0EA5E9,55:4F46E5,100:7C3AED" width="100%" alt="Blue and violet gradient footer" />
-
 **BUILD WITH PURPOSE · ENGINEER WITH CLARITY · CREATE REAL IMPACT**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0EA5E9,55:4F46E5,100:7C3AED" width="100%" alt="Footer" />
 
 </div>
