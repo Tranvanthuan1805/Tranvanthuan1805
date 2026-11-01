@@ -219,12 +219,9 @@ Learning Community
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" height="170" alt="Most used languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A78BFA&area=true" width="100%" alt="Contribution activity graph" />
 
 <img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9" width="90%" alt="GitHub contribution streak" />
 
