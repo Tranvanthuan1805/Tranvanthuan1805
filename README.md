@@ -19,26 +19,45 @@
 
 ## About
 
-I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University**, working at the intersection of software engineering, artificial intelligence, and product development.
+I'm **Trần Văn Thuần (Felix)** — a Software Engineering student at **FPT University**, Founder & CEO of **DUOTECH TECHNOLOGY**.
 
-I enjoy turning complex ideas into practical digital products — from understanding business needs and shaping requirements to building, integrating, and delivering software.
+I work at the intersection of **software engineering, AI, and product development**. I enjoy taking an idea from its early requirements to a working product — connecting business needs with practical technology and thoughtful execution.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-mindmap.svg" width="100%" alt="Mind map covering education, leadership, product lifecycle and working mindset" />
-</div>
+My approach is simple: understand the problem, build with purpose, and deliver something people can actually use.
 
 ## What I Do
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-expertise-mindmap.svg" width="100%" alt="Core expertise mind map: full-stack engineering, AI application building and business analysis" />
-</div>
-
-| Focus | What I work on |
-|:--|:--|
-| **Full-stack Engineering** | Responsive interfaces, backend services, REST APIs, databases, authentication and deployment |
-| **AI Application Building** | AI API integration, chatbots, workflow automation and AI-powered product features |
-| **Business Analysis** | Stakeholder communication, requirements, SRS, user stories, use cases and acceptance criteria |
-| **Product Delivery** | Turning business goals into scoped, usable solutions and coordinating cross-functional execution |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Software Engineering</h3>
+      <p>Building reliable, user-focused web applications from frontend to backend.</p>
+      <ul>
+        <li>Full-stack web development</li>
+        <li>REST APIs & database design</li>
+        <li>Authentication & deployment</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · AI Product Development</h3>
+      <p>Turning AI capabilities into practical features and useful workflows.</p>
+      <ul>
+        <li>LLM and AI API integration</li>
+        <li>Chatbots & AI assistants</li>
+        <li>Workflow automation</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · Product & Business Analysis</h3>
+      <p>Bridging stakeholder needs, product decisions, and engineering teams.</p>
+      <ul>
+        <li>Requirement analysis & SRS</li>
+        <li>User stories & use cases</li>
+        <li>Product coordination & delivery</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Technology
 
