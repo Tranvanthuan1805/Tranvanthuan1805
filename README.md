@@ -1,78 +1,72 @@
-<!--
-  GitHub Profile README — Tran Van Thuan
-  Custom SVG assets are stored in /assets.
--->
+<!-- Profile README | Tran Van Thuan (Felix) -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero-felix-v2.svg" width="100%" alt="Tran Van Thuan — Full-stack Software Engineer, AI Builder and Business Analyst"/>
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero-felix-v2.svg" width="100%" alt="Felix — Tran Van Thuan | Software Engineer, AI Builder and Founder" />
 
-<br/>
+<p>
+  <a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
-<a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-Channel-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-Connect-2563EB?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;AI+Application+%26+Automation+Builder;Business+Analyst+%7C+Product+Thinker;CEO+%40+DUOTECH+TECHNOLOGY;Turning+ideas+into+real-world+products." alt="Animated introduction"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=2563EB&label=PROFILE+VIEWS)](https://github.com/Tranvanthuan1805)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-about.svg" width="100%" alt="👋 About Me section header"/>
-</div>
+## About
+
+I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University**, working at the intersection of software engineering, artificial intelligence, and product development.
+
+I enjoy turning complex ideas into practical digital products — from understanding business needs and shaping requirements to building, integrating, and delivering software.
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-mindmap.svg" width="100%" alt="About Felix mind map: education, leadership, product lifecycle, and working mindset"/>
-
+  <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-mindmap.svg" width="100%" alt="Mind map covering education, leadership, product lifecycle and working mindset" />
 </div>
+
+## What I Do
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-expertise.svg" width="100%" alt="🚀 Core Expertise section header"/>
+  <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-expertise-mindmap.svg" width="100%" alt="Core expertise mind map: full-stack engineering, AI application building and business analysis" />
 </div>
+
+| Focus | What I work on |
+|:--|:--|
+| **Full-stack Engineering** | Responsive interfaces, backend services, REST APIs, databases, authentication and deployment |
+| **AI Application Building** | AI API integration, chatbots, workflow automation and AI-powered product features |
+| **Business Analysis** | Stakeholder communication, requirements, SRS, user stories, use cases and acceptance criteria |
+| **Product Delivery** | Turning business goals into scoped, usable solutions and coordinating cross-functional execution |
+
+## Technology
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/core-expertise-mindmap.svg" width="100%" alt="Core expertise: Full-stack software engineering, AI application building, and business analysis"/>
-</div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-technology.svg" width="100%" alt="🧰 Technology & Tools section header"/>
-</div>
+**Languages**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript and TypeScript" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=67E8F9&center=true&vCenter=true&width=420&lines=PROGRAMMING+LANGUAGES" alt="Programming languages"/>
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js and Tailwind CSS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=8B9CFF&center=true&vCenter=true&width=420&lines=FRONTEND+ENGINEERING" alt="Frontend engineering"/>
+**Backend · Database · Cloud**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js, Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker and AWS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=420&lines=BACKEND%2C+DATABASE+%26+CLOUD" alt="Backend, database and cloud"/>
+**Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=2400&pause=1200&color=5EEAD4&center=true&vCenter=true&width=460&lines=DEVELOPMENT+WORKFLOW+%26+DESIGN" alt="Development workflow and design"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma, VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma and Visual Studio Code" />
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-projects.svg" width="100%" alt="✨ Selected Projects section header"/>
-</div>
+## Selected Projects
 
-| Project | Product / Business Value | Contribution Focus |
+A selection of products and systems I've contributed to across education, local digital transformation, construction, hospitality and entertainment.
+
+| Project | Overview | Contribution |
 |:--|:--|:--|
 | **EZ Luyện Thi** | Online learning and exam-practice platform | Product development · Full-stack delivery |
 | **TAM THANH AYO** | Digital map supporting local digital transformation | Business analysis · Requirements · Product coordination |
@@ -80,59 +74,41 @@
 | **Hotel & Business Systems** | Web platforms and operational systems for business clients | Full-stack engineering · Project delivery |
 | **3D Ticketing Experience** | Interactive 3D ticketing experience for live entertainment | Product and technical coordination |
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-leadership.svg" width="100%" alt="🏆 Leadership & Highlights section header"/>
-</div>
+## Leadership & Highlights
 
-- **Founder & CEO — DUOTECH TECHNOLOGY JOINT STOCK COMPANY:** Leading product direction, technology initiatives, client collaboration, and project delivery.
+- **Founder & CEO — DUOTECH TECHNOLOGY JOINT STOCK COMPANY:** Leading product direction, technology initiatives, client collaboration and project delivery.
 - **FPT University:** Software Engineering.
 - **Academic Achievement:** Top 10% scholarship.
 - **FPT WebDesign:** Competition winner.
 - **Community Building:** Built and supported a learning community of 1,000+ members.
-- **Cross-functional mindset:** Comfortable working with clients, developers, designers, testers, and business stakeholders.
+- **Cross-functional collaboration:** Experience working with clients, developers, designers, testers and business stakeholders.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-languages.svg" width="100%" alt="🌐 Languages section header"/>
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Vietnamese-Native-DC2626?style=for-the-badge" alt="Vietnamese native"/>
-<img src="https://img.shields.io/badge/English-Fluent-2563EB?style=for-the-badge" alt="English fluent"/>
-<img src="https://img.shields.io/badge/Japanese-Basic-DB2777?style=for-the-badge" alt="Japanese basic"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-analytics.svg" width="100%" alt="📊 GitHub Analytics section header"/>
-</div>
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
 
-<br/>
+<br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/section-connect.svg" width="100%" alt="🤝 Let's Connect section header"/>
-</div>
+## Let's Connect
 
-I'm open to collaboration, product-building opportunities, and conversations around **software engineering, AI applications, digital products, and business analysis**.
+I'm open to meaningful collaboration and conversations around **software engineering, AI applications, digital products and business analysis**.
 
 <div align="center">
 
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-tranvanthuan.forwork%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-@Tran__Van__Thuan-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-Tran_Van_Thuan-2563EB?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-Follow%20my%20channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
-<br/><br/>
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:38BDF8,55:3455DB,100:6D28D9" width="100%" alt="Neon gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0EA5E9,55:4F46E5,100:7C3AED" width="100%" alt="Blue and violet gradient footer" />
 
 **BUILD WITH PURPOSE · ENGINEER WITH CLARITY · CREATE REAL IMPACT**
 
