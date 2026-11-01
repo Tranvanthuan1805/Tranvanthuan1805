@@ -23,82 +23,13 @@
 
 ## 01 — About Me
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
 
-<img src="https://img.shields.io/badge/HELLO%2C_I'M-FELIX-0D1117?style=for-the-badge&labelColor=0891B2" alt="Hello, I'm Felix" />
+<img src="assets/about-animated.svg" width="100%" alt="Animated profile card: Tran Van Thuan (Felix), Founder and CEO of DUOTECH TECHNOLOGY, Software Engineering student at FPT University. Focused on software engineering, AI applications, and product development." />
 
-### I turn ideas into products people can use.
+</div>
 
-I'm **Trần Văn Thuần (Felix)** — a Software Engineering student at **FPT University**, and Founder & CEO of **DUOTECH TECHNOLOGY**.
-
-I work across **engineering, AI, and product development** — from understanding a business problem and shaping requirements to building and delivering practical digital solutions.
-
-Rather than writing code for its own sake, I care about the whole journey: **clear thinking → thoughtful design → reliable engineering → real-world impact.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-164E63?style=flat-square" alt="Software Engineering" />
-<img src="https://img.shields.io/badge/EXPLORING-AI%20Applications-4C1D95?style=flat-square" alt="AI Applications" />
-<img src="https://img.shields.io/badge/DRIVEN-Product%20Thinking-1E3A8A?style=flat-square" alt="Product Thinking" />
-
-<br/><br/>
-
-> **Build with purpose.**  
-> Engineer with clarity. Create real impact.
-
-</td>
-<td width="38%" valign="top">
-
-### ◈ PROFILE / 2026
-
-| | |
-|:--|:--|
-| **01 / ROLE** | Founder & CEO |
-| **02 / COMPANY** | DUOTECH TECHNOLOGY |
-| **03 / STUDY** | Software Engineering |
-| **04 / CAMPUS** | FPT University |
-| **05 / INTERESTS** | Software · AI · Product |
-
-<br/>
-
-### CURRENTLY FOCUSED ON
-
-- Building useful digital products
-- Applying AI to real workflows
-- Connecting business needs with technology
-- Growing teams through clear execution
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### BUILD
-
-<sub>Software & AI solutions</sub>
-
-</td>
-<td align="center" width="33%">
-
-### LEAD
-
-<sub>People & product delivery</sub>
-
-</td>
-<td align="center" width="33%">
-
-### IMPROVE
-
-<sub>Learning through execution</sub>
-
-</td>
-</tr>
-</table>
+<sub>Software Engineering · AI Applications · Product Thinking — Building with purpose, engineering with clarity, and creating real impact.</sub>
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
