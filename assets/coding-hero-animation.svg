@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="title desc">
+<title id="title">Felix coding — animated developer workspace</title>
+<desc id="desc">A young developer typing at a keyboard in a blue-lit workspace with animated code, blinking cursor and typing hands.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071426"/><stop offset=".55" stop-color="#0B1730"/><stop offset="1" stop-color="#15113A"/></linearGradient>
+ <linearGradient id="screen" x2="1" y2="1"><stop stop-color="#0B2946"/><stop offset="1" stop-color="#10264C"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+ <linearGradient id="shirt" x2="1" y2="1"><stop stop-color="#172554"/><stop offset="1" stop-color="#080F25"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+<circle cx="250" cy="95" r="115" fill="#0EA5E9" opacity=".12" filter="url(#soft)"/>
+<circle cx="1000" cy="85" r="140" fill="#6366F1" opacity=".13" filter="url(#soft)"/>
+<path d="M0 340 Q300 300 570 340 T1200 320 V430 H0Z" fill="#0A1328"/>
+<path d="M0 345H1200" stroke="#1E3A5F" stroke-width="2"/>
+<!-- ambient lights -->
+<rect x="44" y="34" width="7" height="270" rx="4" fill="#22D3EE" opacity=".8" filter="url(#glow)"/>
+<rect x="1145" y="28" width="5" height="250" rx="3" fill="#818CF8" opacity=".8" filter="url(#glow)"/>
+<!-- left monitor -->
+<g>
+ <rect x="160" y="70" width="355" height="220" rx="13" fill="#020817" stroke="#2563EB" stroke-width="3"/>
+ <rect x="171" y="81" width="333" height="198" rx="7" fill="url(#screen)"/>
+ <path d="M185 100H490" stroke="#1E40AF" stroke-width="2"/>
+ <circle cx="188" cy="91" r="3" fill="#FB7185"/><circle cx="200" cy="91" r="3" fill="#FBBF24"/><circle cx="212" cy="91" r="3" fill="#34D399"/>
+ <g stroke-linecap="round" stroke-width="5">
+  <path d="M192 119h58 M192 140h105 M192 161h82 M192 182h128 M192 203h74 M192 224h110 M192 245h90" stroke="#38BDF8" opacity=".85"/>
+  <path d="M270 119h75 M310 140h55 M286 161h100 M330 182h68 M280 203h92 M310 224h60 M295 245h100" stroke="#A78BFA" opacity=".8"/>
+ </g>
+ <path d="M337 290v25m-55 0h110" stroke="#334155" stroke-width="9" stroke-linecap="round"/>
+</g>
+<!-- right monitor -->
+<g>
+ <rect x="548" y="55" width="345" height="235" rx="13" fill="#020817" stroke="#0EA5E9" stroke-width="3"/>
+ <rect x="559" y="66" width="323" height="213" rx="7" fill="url(#screen)"/>
+ <path d="M574 88H866" stroke="#1E40AF" stroke-width="2"/>
+ <g fill="none" stroke-linecap="round">
+  <path d="M585 225V115 M585 225H850" stroke="#475569" stroke-width="2"/>
+  <path d="M605 195l45-35 42 18 54-60 47 30 45-48" stroke="#22D3EE" stroke-width="4" filter="url(#glow)"/>
+  <path d="M605 210l45-35 42 18 54-60 47 30 45-48v110H605Z" fill="#0EA5E9" opacity=".12" stroke="none"/>
+ </g>
+ <g fill="#38BDF8"><circle cx="650" cy="160" r="4"/><circle cx="692" cy="178" r="4"/><circle cx="746" cy="118" r="4"/><circle cx="793" cy="148" r="4"/></g>
+ <path d="M720 290v25m-55 0h110" stroke="#334155" stroke-width="9" stroke-linecap="round"/>
+</g>
+<!-- desk -->
+<path d="M80 327 Q400 310 700 325 T1120 322 L1150 365H55Z" fill="#152849" stroke="#27466D" stroke-width="2"/>
+<path d="M80 327Q400 310 700 325T1120 322" fill="none" stroke="#38BDF8" stroke-width="3" opacity=".5" filter="url(#glow)"/>
+<!-- coder torso -->
+<path d="M470 430Q470 335 525 292Q570 258 660 258Q760 258 810 310Q845 350 850 430Z" fill="url(#shirt)" stroke="#263B68" stroke-width="3"/>
+<path d="M565 287Q640 330 716 287" fill="none" stroke="#334B7A" stroke-width="4"/>
+<!-- head and hair -->
+<ellipse cx="652" cy="211" rx="62" ry="72" fill="#C98F70"/>
+<path d="M590 205Q575 135 636 126Q703 115 718 177L709 207Q692 177 675 171Q645 196 598 190Z" fill="#10172C"/>
+<path d="M594 174Q605 127 652 127Q699 124 715 169" fill="none" stroke="#263B68" stroke-width="9" stroke-linecap="round"/>
+<!-- headphones -->
+<path d="M584 207Q575 135 650 129Q725 128 719 207" fill="none" stroke="#0F172A" stroke-width="13"/>
+<rect x="574" y="190" width="24" height="50" rx="10" fill="#0F172A" stroke="#22D3EE" stroke-width="3"/>
+<rect x="708" y="190" width="24" height="50" rx="10" fill="#0F172A" stroke="#22D3EE" stroke-width="3"/>
+<circle cx="586" cy="215" r="5" fill="#67E8F9" filter="url(#glow)"/><circle cx="720" cy="215" r="5" fill="#67E8F9" filter="url(#glow)"/>
+<!-- arms -->
+<path d="M515 315Q475 320 445 344L380 370Q361 381 374 395Q385 408 405 398L505 367Q550 356 572 340Z" fill="#C98F70"/>
+<path d="M790 315Q835 322 860 350L930 373Q950 383 940 399Q929 411 908 401L805 370Q765 358 746 340Z" fill="#C98F70"/>
+<!-- keyboard -->
+<path d="M430 365L785 365L835 410H380Z" fill="#071426" stroke="#38BDF8" stroke-width="2"/>
+<g stroke="#334155" stroke-width="3">
+ <path d="M423 378h378M411 390h404M400 402h428"/>
+ <path d="M455 369v9m30-9v9m30-9v9m30-9v9m30-9v9m30-9v9m30-9v9m30-9v9m30-9v9m30-9v9m30-9v9"/>
+</g>
+<!-- animated typing fingers -->
+<g>
+ <path d="M400 385q15-18 29-2l14 8q8 7 0 14l-21 5q-22 0-27-13Z" fill="#D9A080" stroke="#8B5E4A" stroke-width="2">
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0;0 -3;0 0" dur=".65s" repeatCount="indefinite"/>
+ </path>
+ <path d="M790 382q-14-17-28-1l-14 9q-8 7 0 14l21 5q22 0 27-13Z" fill="#D9A080" stroke="#8B5E4A" stroke-width="2">
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0;0 -6;0 0" dur=".58s" repeatCount="indefinite"/>
+ </path>
+</g>
+<!-- small desk details -->
+<rect x="100" y="292" width="58" height="34" rx="7" fill="#0F172A" stroke="#334155"/><path d="M109 300h40" stroke="#22D3EE" stroke-width="3" opacity=".8"/>
+<g transform="translate(1010 257)"><path d="M20 65Q-10 25 5 0Q35 15 25 45Q45 12 72 18Q67 50 35 65Z" fill="#0F766E"/><path d="M32 66V15" stroke="#5EEAD4" stroke-width="3"/><path d="M8 67h55l-7 28H15Z" fill="#334155"/></g>
+<!-- animated cursor and screen pulse -->
+<rect x="475" y="246" width="3" height="18" fill="#67E8F9" filter="url(#glow)"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+<path d="M600 50h260" stroke="#22D3EE" stroke-width="2" opacity=".5"><animate attributeName="opacity" values=".2;.9;.2" dur="2.4s" repeatCount="indefinite"/></path>
+<text x="78" y="405" fill="#93C5FD" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">FELIX  /  BUILDING THE FUTURE</text>
+</svg>
