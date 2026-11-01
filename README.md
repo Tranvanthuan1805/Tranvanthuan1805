@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,55:4F46E5,100:7C3AED&height=200&section=header&text=Hi,%20I'm%20Felix&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Founder%20%26%20CEO%20at%20DUOTECH&descSize=18&descAlignY=60" width="100%" alt="Felix header" />
+<img src="assets/hero.svg" width="100%" alt="Felix animated header" />
 
 <a href="https://github.com/Tranvanthuan1805">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=640&lines=Building+products+with+technology+and+purpose;Full-stack+%7C+AI+Applications+%7C+Product+Delivery;Founder+%26+CEO+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
@@ -125,6 +125,8 @@ Connect business goals with engineering execution and product delivery.
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/ez.svg" width="100%" alt="ez" />
+
 ### 🎓 EZ Luyện Thi
 
 Online learning and exam-practice platform.
@@ -136,6 +138,8 @@ Online learning and exam-practice platform.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/ayo.svg" width="100%" alt="ayo" />
 
 ### 🗺️ TAM THANH AYO
 
@@ -151,6 +155,8 @@ Digital map initiative supporting local digital transformation.
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/ai.svg" width="100%" alt="ai" />
+
 ### 🏗️ AI Construction Management
 
 Digital workflows and AI applications for construction operations.
@@ -162,6 +168,8 @@ Digital workflows and AI applications for construction operations.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/hotel.svg" width="100%" alt="hotel" />
 
 ### 🏨 Hotel & Business Systems
 
@@ -176,6 +184,8 @@ Web platforms and operational systems for business clients.
 </tr>
 <tr>
 <td colspan="2" valign="top">
+
+<img src="assets/ticket.svg" width="100%" alt="ticket" />
 
 ### 🎟️ 3D Ticketing Experience
 
@@ -230,6 +240,8 @@ Interactive 3D ticketing experience for live entertainment.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top languages" />
 
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%" alt="Activity graph" />
 
 <img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="90%" alt="GitHub streak" />
 
