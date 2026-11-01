@@ -1,133 +1,236 @@
-<!-- Profile README | Tran Van Thuan (Felix) -->
+<!-- FELIX | GitHub Profile README -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-hero-felix-v2.svg" width="100%" alt="Felix — Tran Van Thuan | Software Engineer, AI Builder and Founder" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/coding-hero-animation.svg" width="100%" alt="Animated developer workspace — Felix coding" />
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/coding-hero-animation.svg" width="100%" alt="Animated illustration of Felix coding at a dual-monitor workstation" />
+<h1>Hi, I'm Felix 👋</h1>
+<h3>Software Engineer · AI Builder · Founder & CEO at DUOTECH</h3>
 
 <p>
-  <a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B84F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YOUTUBE-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=2563EB&label=PROFILE+VIEWS)](https://github.com/Tranvanthuan1805)
+[![Profile Views](https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)](https://github.com/Tranvanthuan1805)
 
 </div>
 
 ---
 
-## About
-
-I'm **Trần Văn Thuần (Felix)** — a Software Engineering student at **FPT University**, Founder & CEO of **DUOTECH TECHNOLOGY**.
-
-I work at the intersection of **software engineering, AI, and product development**. I enjoy taking an idea from its early requirements to a working product — connecting business needs with practical technology and thoughtful execution.
-
-My approach is simple: understand the problem, build with purpose, and deliver something people can actually use.
-
-## What I Do
+## 01 / About
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 · Software Engineering</h3>
-      <p>Building reliable, user-focused web applications from frontend to backend.</p>
-      <ul>
-        <li>Full-stack web development</li>
-        <li>REST APIs & database design</li>
-        <li>Authentication & deployment</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 · AI Product Development</h3>
-      <p>Turning AI capabilities into practical features and useful workflows.</p>
-      <ul>
-        <li>LLM and AI API integration</li>
-        <li>Chatbots & AI assistants</li>
-        <li>Workflow automation</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 · Product & Business Analysis</h3>
-      <p>Bridging stakeholder needs, product decisions, and engineering teams.</p>
-      <ul>
-        <li>Requirement analysis & SRS</li>
-        <li>User stories & use cases</li>
-        <li>Product coordination & delivery</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="62%" valign="top">
+
+### Building products with technology and purpose.
+
+I'm **Trần Văn Thuần (Felix)**, a Software Engineering student at **FPT University** and Founder & CEO of **DUOTECH TECHNOLOGY**.
+
+I work across **software engineering, AI application development, and product delivery**. I enjoy turning complex requirements into practical digital products — from understanding the business problem and shaping the solution to coordinating development and delivery.
+
+**My focus:** useful technology, thoughtful execution, and measurable value.
+
+</td>
+<td width="38%" valign="top">
+
+### At a glance
+
+| | |
+|:--|:--|
+| **Role** | Founder & CEO |
+| **Company** | DUOTECH TECHNOLOGY |
+| **Education** | Software Engineering |
+| **University** | FPT University |
+| **Focus** | Software · AI · Products |
+
+</td>
+</tr>
 </table>
 
-## Technology
+## 02 / What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3>⌘ Software Engineering</h3>
+
+Build end-to-end web applications with maintainable architecture and practical user experiences.
+
+- Full-stack development
+- API & database design
+- Authentication & deployment
+- UI implementation
+
+</td>
+<td width="33%" valign="top">
+
+<h3>✳ AI Product Development</h3>
+
+Integrate AI capabilities into real workflows, products, and services.
+
+- LLM & AI API integration
+- Chatbots & AI assistants
+- AI-powered applications
+- Workflow automation
+
+</td>
+<td width="33%" valign="top">
+
+<h3>◈ Product & Leadership</h3>
+
+Connect business goals with engineering execution and product delivery.
+
+- Business analysis & SRS
+- Product planning
+- Team coordination
+- Client communication
+
+</td>
+</tr>
+</table>
+
+## 03 / Technology Stack
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript and TypeScript" />
 
-**Frontend**
+**FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="HTML, CSS, React, Next.js and Tailwind CSS" />
 
-**Backend · Database · Cloud**
+**BACKEND · DATABASE · CLOUD**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker and AWS" />
 
-**Tools & Workflow**
+**TOOLS & DESIGN**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode" alt="Git, GitHub, Vercel, Figma and Visual Studio Code" />
 
 </div>
 
-## Selected Projects
+## 04 / Selected Work
 
-A selection of products and systems I've contributed to across education, local digital transformation, construction, hospitality and entertainment.
+*Selected products and systems across education, digital transformation, construction, hospitality, and entertainment.*
 
-| Project | Overview | Contribution |
-|:--|:--|:--|
-| **EZ Luyện Thi** | Online learning and exam-practice platform | Product development · Full-stack delivery |
-| **TAM THANH AYO** | Digital map supporting local digital transformation | Business analysis · Requirements · Product coordination |
-| **AI Construction Management** | Digital workflows and AI applications for construction operations | Product analysis · AI solution direction |
-| **Hotel & Business Systems** | Web platforms and operational systems for business clients | Full-stack engineering · Project delivery |
-| **3D Ticketing Experience** | Interactive 3D ticketing experience for live entertainment | Product and technical coordination |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Leadership & Highlights
+### 🎓 EZ Luyện Thi
 
-- **Founder & CEO — DUOTECH TECHNOLOGY JOINT STOCK COMPANY:** Leading product direction, technology initiatives, client collaboration and project delivery.
-- **FPT University:** Software Engineering.
-- **Academic Achievement:** Top 10% scholarship.
-- **FPT WebDesign:** Competition winner.
-- **Community Building:** Built and supported a learning community of 1,000+ members.
-- **Cross-functional collaboration:** Experience working with clients, developers, designers, testers and business stakeholders.
+Online learning and exam-practice platform.
 
-## GitHub Analytics
+**Contribution**
+- Product development
+- Full-stack implementation
+- Learning experience delivery
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ TAM THANH AYO
+
+Digital map initiative supporting local digital transformation.
+
+**Contribution**
+- Business analysis
+- Requirements & workflow design
+- Product coordination
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ AI Construction Management
+
+Digital workflows and AI applications for construction operations.
+
+**Contribution**
+- Product analysis
+- AI solution direction
+- Workflow design
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Hotel & Business Systems
+
+Web platforms and operational systems for business clients.
+
+**Contribution**
+- Full-stack engineering
+- Client collaboration
+- Project delivery
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎟️ 3D Ticketing Experience
+
+Interactive 3D ticketing experience for live entertainment.
+
+**Contribution:** Product and technical coordination.
+
+</td>
+</tr>
+</table>
+
+## 05 / Leadership & Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>01</h2>
+<strong>Founder & CEO</strong><br/>
+<sub>DUOTECH TECHNOLOGY</sub>
+</td>
+<td align="center" width="25%">
+<h2>Top 10%</h2>
+<strong>Scholarship</strong><br/>
+<sub>FPT University</sub>
+</td>
+<td align="center" width="25%">
+<h2>Winner</h2>
+<strong>FPT WebDesign</strong><br/>
+<sub>Competition</sub>
+</td>
+<td align="center" width="25%">
+<h2>1,000+</h2>
+<strong>Community</strong><br/>
+<sub>Learning community</sub>
+</td>
+</tr>
+</table>
+
+## 06 / GitHub Activity
 
 <div align="center">
 
-<img height="190" src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-snapshot.svg" alt="Profile snapshot" />
-<img height="190" src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/technology-toolkit.svg" alt="Technology toolkit" />
-
-<br />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="90%" alt="GitHub contribution streak" />
 
 </div>
 
-## Let's Connect
-
-I'm open to meaningful collaboration and conversations around **software engineering, AI applications, digital products and business analysis**.
+## 07 / Let's Connect
 
 <div align="center">
 
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YouTube-Follow%20my%20channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+**Have an idea, a product challenge, or an opportunity to collaborate? Let's talk.**
 
-<br /><br />
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Felix" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/Explore-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Felix on YouTube" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0EA5E9,55:4F46E5,100:7C3AED" width="100%" alt="Blue and violet gradient footer" />
 
