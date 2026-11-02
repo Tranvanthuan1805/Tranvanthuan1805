@@ -16,6 +16,11 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
+<br/><br/>
+
+<a href="https://github.com/Tranvanthuan1805/fullstack-ai-prompts">
+  <img src="https://img.shields.io/badge/🔥_FEATURED_REPO-Kho_Prompt_Fullstack_AI_(Claude_&_Gemini)-FF4500?style=for-the-badge&logo=github" alt="Featured Repo: Fullstack AI Prompts" />
+</a>
 
 </div>
 
