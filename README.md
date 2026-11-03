@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Animated profile banner: Trần Văn Thuần (Felix), Founder and CEO of DUOTECH TECHNOLOGY" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/hero.svg" width="100%" alt="Animated profile banner: Trần Văn Thuần (Felix), Founder and CEO of DUOTECH TECHNOLOGY" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0369A1&center=true&vCenter=true&width=760&lines=%24+building+digital+products+with+purpose;%24+fullstack+%7C+AI+applications+%7C+product;%24+founder+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
@@ -31,18 +31,18 @@
 
 </div>
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-about.svg" width="100%" alt="About Me" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-about.svg" width="100%" alt="About Me" />
 
 
 <div align="center">
 
-<img src="assets/about-animated.svg" width="100%" alt="Animated profile card: Tran Van Thuan (Felix), Founder and CEO of DUOTECH TECHNOLOGY, Software Engineering student at FPT University. Focused on software engineering, AI applications, and product development." />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-animated.svg" width="100%" alt="Animated profile card: Tran Van Thuan (Felix), Founder and CEO of DUOTECH TECHNOLOGY, Software Engineering student at FPT University. Focused on software engineering, AI applications, and product development." />
 
 <br/>
 
-<img src="assets/terminal.svg" width="92%" alt="Animated terminal introducing Felix: Founder and CEO of DUOTECH, Software Engineering at FPT University" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/terminal.svg" width="92%" alt="Animated terminal introducing Felix: Founder and CEO of DUOTECH, Software Engineering at FPT University" />
 
 </div>
 
@@ -57,9 +57,9 @@
 
 <sub>Software Engineering · AI Applications · Product Thinking — Building with purpose, engineering with clarity, and creating real impact.</sub>
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-expertise.svg" width="100%" alt="Expertise" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-expertise.svg" width="100%" alt="Expertise" />
 
 
 <table>
@@ -103,14 +103,14 @@ Connect business objectives with engineering execution.
 </tr>
 </table>
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-stack.svg" width="100%" alt="Tech Stack" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-stack.svg" width="100%" alt="Tech Stack" />
 
 
 <div align="center">
 
-<img src="assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI" />
 
 <br/>
 
@@ -134,11 +134,11 @@ Connect business objectives with engineering execution.
 
 <br/>
 
-<img src="assets/skill-bars.svg" width="100%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/skill-bars.svg" width="100%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-work.svg" width="100%" alt="Selected Work" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-work.svg" width="100%" alt="Selected Work" />
 
 
 <sub>A selection of products and systems across education, digital transformation, construction, hospitality, and entertainment.</sub>
@@ -209,9 +209,9 @@ Interactive 3D ticketing experience for live entertainment.
 </tr>
 </table>
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-highlights.svg" width="100%" alt="Highlights" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-highlights.svg" width="100%" alt="Highlights" />
 
 
 <div align="center">
@@ -251,9 +251,9 @@ Learning Community
 
 </div>
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-activity.svg" width="100%" alt="GitHub Activity" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-activity.svg" width="100%" alt="GitHub Activity" />
 
 
 <div align="center">
@@ -278,9 +278,9 @@ Learning Community
 
 </div>
 
-<img src="assets/divider-pixel.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
-<img src="assets/stage-connect.svg" width="100%" alt="Let's Connect" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-connect.svg" width="100%" alt="Let's Connect" />
 
 
 <div align="center">
