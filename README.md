@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" width="100%" alt="Animated profile banner: Trần Văn Thuần (Felix), Founder and CEO of DUOTECH TECHNOLOGY" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=0369A1&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Software+Engineering+%7C+AI+Applications+%7C+Product;Turning+ideas+into+useful+technology" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0369A1&center=true&vCenter=true&width=760&lines=%24+building+digital+products+with+purpose;%24+fullstack+%7C+AI+applications+%7C+product;%24+founder+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
 </a>
 
 <br/>
@@ -12,6 +12,13 @@
 <a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YOUTUBE-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-0EA5E9?style=flat-square&labelColor=0F172A" alt="Open to internship" />
+<img src="https://img.shields.io/badge/ROLE-FOUNDER_%26_CEO-6366F1?style=flat-square&labelColor=0F172A" alt="Founder and CEO" />
+<img src="https://img.shields.io/badge/BUILDING-VITEC-10B981?style=flat-square&labelColor=0F172A" alt="Building VITEC" />
+<img src="https://img.shields.io/badge/FOCUS-FULLSTACK_%C2%B7_AI-F59E0B?style=flat-square&labelColor=0F172A" alt="Fullstack and AI" />
 
 <br/><br/>
 
@@ -26,7 +33,7 @@
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 01 — About Me
+## `$ about --me`
 
 <div align="center">
 
@@ -38,11 +45,20 @@
 
 </div>
 
+<table>
+<tr><th align="left">profile.json</th><th align="left"></th></tr>
+<tr><td><b>role</b></td><td>Founder &amp; CEO — DUOTECH TECHNOLOGY</td></tr>
+<tr><td><b>education</b></td><td>Software Engineering, FPT University</td></tr>
+<tr><td><b>career_path</b></td><td>Fullstack Developer → Tech Lead / Project Manager</td></tr>
+<tr><td><b>now_building</b></td><td>VITEC — e-commerce platform for the IT industry</td></tr>
+<tr><td><b>leading</b></td><td>Cross-functional team: developers, marketing, sales, interns</td></tr>
+</table>
+
 <sub>Software Engineering · AI Applications · Product Thinking — Building with purpose, engineering with clarity, and creating real impact.</sub>
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 02 — What I Do
+## `$ ls ./expertise`
 
 <table>
 <tr>
@@ -87,7 +103,7 @@ Connect business objectives with engineering execution.
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 03 — Tech Stack
+## `$ install --tech-stack`
 
 <div align="center">
 
@@ -113,9 +129,18 @@ Connect business objectives with engineering execution.
 
 </div>
 
+<br/>
+
+<table>
+<tr><th align="left">Level</th><th align="left">Technologies</th><th align="left">Use</th></tr>
+<tr><td><b>🟦 Core</b></td><td>Java · Spring Boot · React · Next.js · TypeScript · SQL</td><td>Production web apps, REST APIs, data modelling</td></tr>
+<tr><td><b>🟪 Working</b></td><td>Node.js · Express · MySQL · MongoDB · Supabase · Docker · Git</td><td>Backend services, databases, CI-friendly delivery</td></tr>
+<tr><td><b>🟩 Growing</b></td><td>AWS · LLM / AI APIs · Workflow automation</td><td>AI-powered features and scalable deployment</td></tr>
+</table>
+
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 04 — Selected Work
+## `$ open ./selected-work`
 
 <sub>A selection of products and systems across education, digital transformation, construction, hospitality, and entertainment.</sub>
 
@@ -187,7 +212,7 @@ Interactive 3D ticketing experience for live entertainment.
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 05 — Highlights
+## `$ cat highlights.json`
 
 <div align="center">
 
@@ -228,7 +253,7 @@ Learning Community
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 06 — GitHub Activity
+## `$ system.scan --activity`
 
 <div align="center">
 
@@ -243,11 +268,18 @@ Learning Community
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=github&bg_color=FFFFFF&color=0369A1&line=6366F1&point=0F172A&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution snake animation" />
+</picture>
+
 </div>
 
 <img src="assets/ambient-divider.svg" width="100%" alt="" />
 
-## 07 — Let's Connect
+## `$ connect --collaborate`
 
 <div align="center">
 
