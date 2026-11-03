@@ -100,16 +100,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=default&border_color=0F172A&border_radius=0&bg_color=FFFFFF&title_color=0369A1&icon_color=6366F1&text_color=334155&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=default&border_color=0F172A&border_radius=0&bg_color=FFFFFF&title_color=0369A1&text_color=334155" height="165" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/output/stats-card.svg" width="48%" alt="GitHub stats: stars, commits, pull requests, issues, repositories, followers" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/output/langs-card.svg" width="48%" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=default&border_radius=0&stroke=0F172A&background=FFFFFF&ring=0EA5E9&fire=6366F1&currStreakLabel=0369A1&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" width="90%" alt="GitHub contribution streak" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/output/streak-card.svg" width="96%" alt="Contribution totals and streaks" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=github&bg_color=FFFFFF&color=0369A1&line=6366F1&point=0F172A&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/output/activity-card.svg" width="96%" alt="Contribution activity over the last 26 weeks" />
 
 <br/>
 
