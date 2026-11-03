@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Animated neon profile banner" />
+<img src="assets/hero.svg" width="100%" alt="Animated profile banner: Trần Văn Thuần (Felix), Founder and CEO of DUOTECH TECHNOLOGY" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Software+Engineering+%7C+AI+Applications+%7C+Product;Turning+ideas+into+useful+technology" alt="Typing animation" />
@@ -31,6 +31,10 @@
 <div align="center">
 
 <img src="assets/about-animated.svg" width="100%" alt="Animated profile card: Tran Van Thuan (Felix), Founder and CEO of DUOTECH TECHNOLOGY, Software Engineering student at FPT University. Focused on software engineering, AI applications, and product development." />
+
+<br/>
+
+<img src="assets/terminal.svg" width="92%" alt="Animated terminal introducing Felix: Founder and CEO of DUOTECH, Software Engineering at FPT University" />
 
 </div>
 
@@ -86,6 +90,10 @@ Connect business objectives with engineering execution.
 ## 03 — Tech Stack
 
 <div align="center">
+
+<img src="assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI" />
+
+<br/>
 
 **LANGUAGES**
 
@@ -224,11 +232,16 @@ Learning Community
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" height="165" alt="Top languages" />
 
 <br/>
 
-
 <img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9" width="90%" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=react-dark&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 
 </div>
 

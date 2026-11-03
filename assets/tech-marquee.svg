@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64">
+<defs>
+ <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+ <mask id="m"><rect width="1200" height="64" fill="url(#fade)"/></mask>
+ <g id="row" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#e6edf3">
+  <g transform="translate(0 14)"><rect width="96" height="36" rx="18" fill="#0d1117" stroke="#22d3ee" stroke-opacity=".6"/><text x="48" y="23" text-anchor="middle">Java</text></g>
+  <g transform="translate(112 14)"><rect width="150" height="36" rx="18" fill="#0d1117" stroke="#a78bfa" stroke-opacity=".6"/><text x="75" y="23" text-anchor="middle">Spring Boot</text></g>
+  <g transform="translate(278 14)"><rect width="96" height="36" rx="18" fill="#0d1117" stroke="#22d3ee" stroke-opacity=".6"/><text x="48" y="23" text-anchor="middle">React</text></g>
+  <g transform="translate(390 14)"><rect width="110" height="36" rx="18" fill="#0d1117" stroke="#a78bfa" stroke-opacity=".6"/><text x="55" y="23" text-anchor="middle">Next.js</text></g>
+  <g transform="translate(516 14)"><rect width="130" height="36" rx="18" fill="#0d1117" stroke="#22d3ee" stroke-opacity=".6"/><text x="65" y="23" text-anchor="middle">TypeScript</text></g>
+  <g transform="translate(662 14)"><rect width="96" height="36" rx="18" fill="#0d1117" stroke="#a78bfa" stroke-opacity=".6"/><text x="48" y="23" text-anchor="middle">Node.js</text></g>
+  <g transform="translate(774 14)"><rect width="150" height="36" rx="18" fill="#0d1117" stroke="#22d3ee" stroke-opacity=".6"/><text x="75" y="23" text-anchor="middle">MySQL · SQL</text></g>
+  <g transform="translate(940 14)"><rect width="110" height="36" rx="18" fill="#0d1117" stroke="#a78bfa" stroke-opacity=".6"/><text x="55" y="23" text-anchor="middle">Docker</text></g>
+  <g transform="translate(1066 14)"><rect width="130" height="36" rx="18" fill="#0d1117" stroke="#22d3ee" stroke-opacity=".6"/><text x="65" y="23" text-anchor="middle">AI · LLM</text></g>
+ </g>
+</defs>
+<g mask="url(#m)">
+ <g>
+  <use href="#row" x="0"/><use href="#row" x="1212"/>
+  <animateTransform attributeName="transform" type="translate" values="0 0;-1212 0" dur="28s" repeatCount="indefinite"/>
+ </g>
+</g>
+</svg>
