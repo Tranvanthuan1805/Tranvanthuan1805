@@ -64,7 +64,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-inventory.svg" width="96%" alt="Inventory: C, C++, Java, Python, JavaScript, TypeScript; HTML, CSS, React, Next.js, Tailwind; Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS; Git, GitHub, Vercel, Figma, VS Code." />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-gold-miner.svg" width="96%" alt="Inventory: C, C++, Java, Python, JavaScript, TypeScript; HTML, CSS, React, Next.js, Tailwind; Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS; Git, GitHub, Vercel, Figma, VS Code." />
 
 <br/>
 
