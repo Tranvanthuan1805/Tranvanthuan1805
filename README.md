@@ -31,9 +31,10 @@
 
 </div>
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ about --me`
+<img src="assets/stage-about.svg" width="100%" alt="About Me" />
+
 
 <div align="center">
 
@@ -56,9 +57,10 @@
 
 <sub>Software Engineering · AI Applications · Product Thinking — Building with purpose, engineering with clarity, and creating real impact.</sub>
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ ls ./expertise`
+<img src="assets/stage-expertise.svg" width="100%" alt="Expertise" />
+
 
 <table>
 <tr>
@@ -101,9 +103,10 @@ Connect business objectives with engineering execution.
 </tr>
 </table>
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ install --tech-stack`
+<img src="assets/stage-stack.svg" width="100%" alt="Tech Stack" />
+
 
 <div align="center">
 
@@ -131,16 +134,12 @@ Connect business objectives with engineering execution.
 
 <br/>
 
-<table>
-<tr><th align="left">Level</th><th align="left">Technologies</th><th align="left">Use</th></tr>
-<tr><td><b>🟦 Core</b></td><td>Java · Spring Boot · React · Next.js · TypeScript · SQL</td><td>Production web apps, REST APIs, data modelling</td></tr>
-<tr><td><b>🟪 Working</b></td><td>Node.js · Express · MySQL · MongoDB · Supabase · Docker · Git</td><td>Backend services, databases, CI-friendly delivery</td></tr>
-<tr><td><b>🟩 Growing</b></td><td>AWS · LLM / AI APIs · Workflow automation</td><td>AI-powered features and scalable deployment</td></tr>
-</table>
+<img src="assets/skill-bars.svg" width="100%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ open ./selected-work`
+<img src="assets/stage-work.svg" width="100%" alt="Selected Work" />
+
 
 <sub>A selection of products and systems across education, digital transformation, construction, hospitality, and entertainment.</sub>
 
@@ -210,9 +209,10 @@ Interactive 3D ticketing experience for live entertainment.
 </tr>
 </table>
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ cat highlights.json`
+<img src="assets/stage-highlights.svg" width="100%" alt="Highlights" />
+
 
 <div align="center">
 
@@ -251,9 +251,10 @@ Learning Community
 
 </div>
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ system.scan --activity`
+<img src="assets/stage-activity.svg" width="100%" alt="GitHub Activity" />
+
 
 <div align="center">
 
@@ -277,9 +278,10 @@ Learning Community
 
 </div>
 
-<img src="assets/ambient-divider.svg" width="100%" alt="" />
+<img src="assets/divider-pixel.svg" width="100%" alt="" />
 
-## `$ connect --collaborate`
+<img src="assets/stage-connect.svg" width="100%" alt="Let's Connect" />
+
 
 <div align="center">
 

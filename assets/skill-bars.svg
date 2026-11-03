@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" shape-rendering="crispEdges"><title>Skill levels: Core, Working, Growing</title>
+<rect width="1200" height="250" fill="#f8fafc" stroke="#0f172a" stroke-width="4"/><g font-family="Courier New,Courier,monospace" font-weight="700">
+<text x="28" y="46" font-size="18" letter-spacing="3" fill="#0f172a">CORE</text><text x="28" y="74" font-size="14" fill="#475569">Java · Spring Boot · React · Next.js · TypeScript · SQL</text>
+<rect x="760" y="34" width="410" height="30" fill="#e2e8f0" stroke="#0f172a" stroke-width="4"/>
+<rect x="764" y="38" width="0" height="22" fill="#38bdf8"><animate attributeName="width" values="0;350" dur="1.6s" begin="0.0s" fill="freeze"/></rect>
+<rect x="778" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="792" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="806" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="820" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="834" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="848" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="862" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="876" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="890" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="904" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="918" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="932" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="946" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="960" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="974" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="988" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1002" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1016" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1030" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1044" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1058" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1072" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1086" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1100" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1114" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1128" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1142" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1156" y="38" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<text x="28" y="118" font-size="18" letter-spacing="3" fill="#0f172a">WORKING</text><text x="28" y="146" font-size="14" fill="#475569">Node.js · Express · MySQL · MongoDB · Supabase · Docker</text>
+<rect x="760" y="106" width="410" height="30" fill="#e2e8f0" stroke="#0f172a" stroke-width="4"/>
+<rect x="764" y="110" width="0" height="22" fill="#818cf8"><animate attributeName="width" values="0;266" dur="1.6s" begin="0.3s" fill="freeze"/></rect>
+<rect x="778" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="792" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="806" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="820" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="834" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="848" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="862" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="876" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="890" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="904" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="918" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="932" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="946" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="960" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="974" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="988" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1002" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1016" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1030" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1044" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1058" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1072" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1086" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1100" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1114" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1128" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1142" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1156" y="110" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<text x="28" y="190" font-size="18" letter-spacing="3" fill="#0f172a">GROWING</text><text x="28" y="218" font-size="14" fill="#475569">AWS · LLM / AI APIs · Workflow automation</text>
+<rect x="760" y="178" width="410" height="30" fill="#e2e8f0" stroke="#0f172a" stroke-width="4"/>
+<rect x="764" y="182" width="0" height="22" fill="#4ade80"><animate attributeName="width" values="0;168" dur="1.6s" begin="0.6s" fill="freeze"/></rect>
+<rect x="778" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="792" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="806" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="820" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="834" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="848" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="862" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="876" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="890" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="904" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="918" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="932" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="946" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="960" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="974" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="988" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1002" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1016" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1030" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1044" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1058" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1072" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1086" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1100" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1114" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1128" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1142" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+<rect x="1156" y="182" width="2" height="22" fill="#f8fafc" fill-opacity=".7"/>
+</g></svg>
