@@ -1,33 +1,28 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/hero.svg" width="100%" alt="Animated profile banner: Trần Văn Thuần (Felix), Founder and CEO of DUOTECH TECHNOLOGY" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/hero.svg" width="100%" alt="Pixel-art banner: Felix, Founder and CEO of DUOTECH TECHNOLOGY, coding at a desk in a retro platformer world" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=0369A1&center=true&vCenter=true&width=760&lines=%24+building+digital+products+with+purpose;%24+fullstack+%7C+AI+applications+%7C+product;%24+founder+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=0369A1&center=true&vCenter=true&width=900&height=40&lines=%24+building+digital+products+with+purpose;%24+fullstack+%7C+AI+applications+%7C+product;%24+founder+%40+DUOTECH+TECHNOLOGY" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/YOUTUBE-Channel-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://github.com/Tranvanthuan1805"><img src="https://img.shields.io/badge/GITHUB-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-email.svg" width="auto" alt="Email" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-youtube.svg" width="auto" alt="YouTube" /></a>
+<a href="https://www.facebook.com/tran.van.thuan.499718"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-facebook.svg" width="auto" alt="Facebook" /></a>
+<a href="https://github.com/Tranvanthuan1805"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-github.svg" width="auto" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIP-0EA5E9?style=flat-square&labelColor=0F172A" alt="Open to internship" />
-<img src="https://img.shields.io/badge/ROLE-FOUNDER_%26_CEO-6366F1?style=flat-square&labelColor=0F172A" alt="Founder and CEO" />
-<img src="https://img.shields.io/badge/BUILDING-VITEC-10B981?style=flat-square&labelColor=0F172A" alt="Building VITEC" />
-<img src="https://img.shields.io/badge/FOCUS-FULLSTACK_%C2%B7_AI-F59E0B?style=flat-square&labelColor=0F172A" alt="Fullstack and AI" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/status-bar.svg" width="auto" alt="Status: open to internship. Role: Founder and CEO. Building VITEC. Focus: fullstack and AI." />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Tranvanthuan1805&style=flat-square&color=0F172A&label=PROFILE+VIEWS" alt="Profile views" />
 <br/><br/>
 
-<a href="https://github.com/Tranvanthuan1805/fullstack-ai-prompts">
-  <img src="https://img.shields.io/badge/🔥_FEATURED_REPO-Kho_Prompt_Fullstack_AI_(Claude_&_Gemini)-FF4500?style=for-the-badge&logo=github" alt="Featured Repo: Fullstack AI Prompts" />
-</a>
+<a href="https://github.com/Tranvanthuan1805/fullstack-ai-prompts"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-featured.svg" width="auto" alt="Featured repo: Fullstack AI Prompts (Claude and Gemini)" /></a>
 
 </div>
 
@@ -35,219 +30,67 @@
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-about.svg" width="100%" alt="About Me" />
 
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-animated.svg" width="100%" alt="Animated profile card: Tran Van Thuan (Felix), Founder and CEO of DUOTECH TECHNOLOGY, Software Engineering student at FPT University. Focused on software engineering, AI applications, and product development." />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/about-animated.svg" width="100%" alt="Pixel player card: Tran Van Thuan (Felix), Founder and CEO of DUOTECH TECHNOLOGY, Software Engineering student at FPT University." />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/terminal.svg" width="92%" alt="Animated terminal introducing Felix: Founder and CEO of DUOTECH, Software Engineering at FPT University" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/terminal.svg" width="96%" alt="Terminal: whoami. Name Trần Văn Thuần (Felix), role Founder and CEO of DUOTECH TECHNOLOGY, study Software Engineering at FPT University, focus Fullstack, AI applications, Product." />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/profile-table.svg" width="96%" alt="Player stats: role Founder and CEO; education Software Engineering at FPT University; career path Fullstack Developer to Tech Lead or Project Manager; now building VITEC; leading a cross-functional team." />
 
 </div>
-
-<table>
-<tr><th align="left">profile.json</th><th align="left"></th></tr>
-<tr><td><b>role</b></td><td>Founder &amp; CEO — DUOTECH TECHNOLOGY</td></tr>
-<tr><td><b>education</b></td><td>Software Engineering, FPT University</td></tr>
-<tr><td><b>career_path</b></td><td>Fullstack Developer → Tech Lead / Project Manager</td></tr>
-<tr><td><b>now_building</b></td><td>VITEC — e-commerce platform for the IT industry</td></tr>
-<tr><td><b>leading</b></td><td>Cross-functional team: developers, marketing, sales, interns</td></tr>
-</table>
-
-<sub>Software Engineering · AI Applications · Product Thinking — Building with purpose, engineering with clarity, and creating real impact.</sub>
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-expertise.svg" width="100%" alt="Expertise" />
 
+<div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/expertise.svg" width="100%" alt="Expertise cards: Software Engineering, AI Applications, Product and Leadership." />
 
-### ⌘ Software Engineering
-
-Design and build practical web applications with maintainable architecture.
-
-- Full-stack development
-- API & database design
-- Authentication systems
-- Deployment & integration
-
-</td>
-<td width="33%" valign="top">
-
-### ✳ AI Application Development
-
-Bring AI capabilities into useful products and everyday workflows.
-
-- LLM & AI API integration
-- AI chatbots and assistants
-- AI-powered applications
-- Workflow automation
-
-</td>
-<td width="33%" valign="top">
-
-### ◈ Product & Leadership
-
-Connect business objectives with engineering execution.
-
-- Business analysis & SRS
-- Product planning
-- Team coordination
-- Client communication
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-stack.svg" width="100%" alt="Tech Stack" />
 
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI." />
 
 <br/>
 
-**LANGUAGES**
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-inventory.svg" width="96%" alt="Inventory: C, C++, Java, Python, JavaScript, TypeScript; HTML, CSS, React, Next.js, Tailwind; Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS; Git, GitHub, Vercel, Figma, VS Code." />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" alt="C, C++, Java, Python, JavaScript, TypeScript" />
+<br/>
 
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=light" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
-
-**BACKEND · DATABASE · CLOUD**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws&theme=light" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS" />
-
-**TOOLS · DESIGN**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=light" alt="Git, GitHub, Vercel, Figma, VS Code" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/skill-bars.svg" width="96%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/skill-bars.svg" width="100%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-work.svg" width="100%" alt="Selected Work" />
 
-
 <sub>A selection of products and systems across education, digital transformation, construction, hospitality, and entertainment.</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎓 EZ Luyện Thi
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/selected-work.svg" width="100%" alt="Selected work: EZ Luyện Thi, TAM THANH AYO, AI Construction Management, Hotel and Business Systems, 3D Ticketing Experience." />
 
-Online learning and exam-practice platform.
-
-**Focus**
-- Product development
-- Full-stack implementation
-- Learning experience delivery
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ TAM THANH AYO
-
-Digital map initiative supporting local digital transformation.
-
-**Focus**
-- Business analysis
-- Requirements & workflow design
-- Product coordination
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ AI Construction Management
-
-Digital workflows and AI applications for construction operations.
-
-**Focus**
-- Product analysis
-- AI solution direction
-- Workflow design
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Hotel & Business Systems
-
-Web platforms and operational systems for business clients.
-
-**Focus**
-- Full-stack engineering
-- Client collaboration
-- Project delivery
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🎟️ 3D Ticketing Experience
-
-Interactive 3D ticketing experience for live entertainment.
-
-**Focus:** Product and technical coordination.
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-highlights.svg" width="100%" alt="Highlights" />
 
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Founder & CEO
-
-DUOTECH TECHNOLOGY
-
-</td>
-<td align="center" width="25%">
-
-### Top 10%
-
-FPT Scholarship
-
-</td>
-<td align="center" width="25%">
-
-### Winner
-
-FPT WebDesign
-
-</td>
-<td align="center" width="25%">
-
-### 1,000+
-
-Learning Community
-
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/highlights.svg" width="100%" alt="Highlights: Founder and CEO of DUOTECH TECHNOLOGY; Top 10% FPT Scholarship; Winner FPT WebDesign; 1,000+ Learning Community." />
 
 </div>
 
@@ -255,15 +98,14 @@ Learning Community
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-activity.svg" width="100%" alt="GitHub Activity" />
 
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0369A1&icon_color=6366F1&text_color=334155&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=default&border_color=0F172A&border_radius=0&bg_color=FFFFFF&title_color=0369A1&icon_color=6366F1&text_color=334155&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=default&border_color=0F172A&border_radius=0&bg_color=FFFFFF&title_color=0369A1&text_color=334155" height="165" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=default&hide_border=true&background=FFFFFF&ring=0EA5E9&fire=6366F1&currStreakLabel=0369A1&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" width="90%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=default&border_radius=0&stroke=0F172A&background=FFFFFF&ring=0EA5E9&fire=6366F1&currStreakLabel=0369A1&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" width="90%" alt="GitHub contribution streak" />
 
 <br/>
 
@@ -282,20 +124,17 @@ Learning Community
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-connect.svg" width="100%" alt="Let's Connect" />
 
-
 <div align="center">
 
 ### Have an idea, a product challenge, or an opportunity to collaborate?
 
 Let's build something meaningful together.
 
-<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-Email_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Felix" /></a>
-<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://img.shields.io/badge/EXPLORE-YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Felix on YouTube" /></a>
+<a href="mailto:tranvanthuan.forwork@gmail.com"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-talk.svg" width="auto" alt="Let's talk: email me" /></a>
+<a href="https://www.youtube.com/@Tran_Van_Thuan"><img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/btn-explore.svg" width="auto" alt="Explore: YouTube" /></a>
 
 <br/><br/>
 
-**BUILD WITH PURPOSE · ENGINEER WITH CLARITY · CREATE REAL IMPACT**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:38BDF8,50:818CF8,100:A78BFA" width="100%" alt="Animated gradient footer" />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/footer-pixel.svg" width="100%" alt="Build with purpose. Engineer with clarity. Create real impact." />
 
 </div>
