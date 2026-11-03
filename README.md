@@ -28,6 +28,24 @@
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
 
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-stack.svg" width="100%" alt="Tech Stack" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI." />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-gold-miner.svg" width="96%" alt="Inventory: C, C++, Java, Python, JavaScript, TypeScript; HTML, CSS, React, Next.js, Tailwind; Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS; Git, GitHub, Vercel, Figma, VS Code." />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/skill-bars.svg" width="96%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
+
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-about.svg" width="100%" alt="About Me" />
 
 <div align="center">
@@ -51,24 +69,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/expertise.svg" width="100%" alt="Expertise cards: Software Engineering, AI Applications, Product and Leadership." />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/divider-pixel.svg" width="100%" alt="" />
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/stage-stack.svg" width="100%" alt="Tech Stack" />
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-marquee.svg" width="100%" alt="Scrolling tech stack: Java, Spring Boot, React, Next.js, TypeScript, Node.js, SQL, Docker, AI." />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/tech-gold-miner.svg" width="96%" alt="Inventory: C, C++, Java, Python, JavaScript, TypeScript; HTML, CSS, React, Next.js, Tailwind; Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS; Git, GitHub, Vercel, Figma, VS Code." />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/skill-bars.svg" width="96%" alt="Skill levels: Core is Java, Spring Boot, React, Next.js, TypeScript, SQL. Working is Node.js, Express, MySQL, MongoDB, Supabase, Docker. Growing is AWS, LLM and AI APIs, workflow automation." />
 
 </div>
 
