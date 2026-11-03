@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" width="100%" alt="Animated profile banner: Trần Văn Thuần (Felix), Founder and CEO of DUOTECH TECHNOLOGY" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Software+Engineering+%7C+AI+Applications+%7C+Product;Turning+ideas+into+useful+technology" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=0369A1&center=true&vCenter=true&width=760&lines=Building+digital+products+with+purpose;Software+Engineering+%7C+AI+Applications+%7C+Product;Turning+ideas+into+useful+technology" alt="Typing animation" />
 </a>
 
 <br/>
@@ -97,19 +97,19 @@ Connect business objectives with engineering execution.
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" alt="C, C++, Java, Python, JavaScript, TypeScript" />
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=light" alt="HTML, CSS, React, Next.js, Tailwind CSS" />
 
 **BACKEND · DATABASE · CLOUD**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws&theme=dark" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql,mongodb,docker,aws&theme=light" alt="Node.js, Express, Supabase, MySQL, MongoDB, Docker, AWS" />
 
 **TOOLS · DESIGN**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=dark" alt="Git, GitHub, Vercel, Figma, VS Code" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode&theme=light" alt="Git, GitHub, Vercel, Figma, VS Code" />
 
 </div>
 
@@ -232,16 +232,16 @@ Learning Community
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tranvanthuan1805&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0369A1&icon_color=6366F1&text_color=334155&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tranvanthuan1805&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155" height="165" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9" width="90%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Tranvanthuan1805&theme=default&hide_border=true&background=FFFFFF&ring=0EA5E9&fire=6366F1&currStreakLabel=0369A1&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" width="90%" alt="GitHub contribution streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=react-dark&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tranvanthuan1805&theme=github&bg_color=FFFFFF&color=0369A1&line=6366F1&point=0F172A&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 
 </div>
 
@@ -262,6 +262,6 @@ Let's build something meaningful together.
 
 **BUILD WITH PURPOSE · ENGINEER WITH CLARITY · CREATE REAL IMPACT**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:06B6D4,50:4F46E5,100:7C3AED" width="100%" alt="Animated gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:38BDF8,50:818CF8,100:A78BFA" width="100%" alt="Animated gradient footer" />
 
 </div>

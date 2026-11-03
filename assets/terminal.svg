@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
 <defs>
- <linearGradient id="tb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+ <linearGradient id="tb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f1f5ff"/></linearGradient>
  <clipPath id="l1"><rect x="40" y="70" width="0" height="26"><animate attributeName="width" values="0;300" dur="1.2s" begin="0.4s" fill="freeze"/></rect></clipPath>
  <clipPath id="l2"><rect x="40" y="104" width="0" height="26"><animate attributeName="width" values="0;880" dur="1.6s" begin="1.8s" fill="freeze"/></rect></clipPath>
  <clipPath id="l3"><rect x="40" y="138" width="0" height="26"><animate attributeName="width" values="0;880" dur="1.6s" begin="3.6s" fill="freeze"/></rect></clipPath>
  <clipPath id="l4"><rect x="40" y="172" width="0" height="26"><animate attributeName="width" values="0;880" dur="1.6s" begin="5.4s" fill="freeze"/></rect></clipPath>
  <clipPath id="l5"><rect x="40" y="206" width="0" height="26"><animate attributeName="width" values="0;880" dur="1.6s" begin="7.2s" fill="freeze"/></rect></clipPath>
 </defs>
-<rect width="1000" height="330" rx="14" fill="url(#tb)" stroke="#67e8f9" stroke-opacity=".3"/>
-<rect width="1000" height="42" rx="14" fill="#161b22"/><rect y="28" width="1000" height="14" fill="#161b22"/>
+<rect width="1000" height="330" rx="14" fill="url(#tb)" stroke="#0284c7" stroke-opacity=".3"/>
+<rect width="1000" height="42" rx="14" fill="#f1f5f9"/><rect y="28" width="1000" height="14" fill="#f1f5f9"/>
 <circle cx="24" cy="21" r="6" fill="#ff5f56"/><circle cx="46" cy="21" r="6" fill="#ffbd2e"/><circle cx="68" cy="21" r="6" fill="#27c93f"/>
-<text x="500" y="26" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#8b949e">felix@duotech: ~/profile</text>
+<text x="500" y="26" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#64748b">felix@duotech: ~/profile</text>
 <g font-family="'JetBrains Mono',Consolas,monospace" font-size="17" style="white-space:pre" xml:space="preserve">
- <g clip-path="url(#l1)"><text x="40" y="90"><tspan fill="#22d3ee">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text></g>
- <g clip-path="url(#l2)"><text x="40" y="124" fill="#a5b4fc">name    <tspan fill="#e6edf3">→ Trần Văn Thuần (Felix)</tspan></text></g>
- <g clip-path="url(#l3)"><text x="40" y="158" fill="#a5b4fc">role    <tspan fill="#e6edf3">→ Founder &amp; CEO, DUOTECH TECHNOLOGY</tspan></text></g>
- <g clip-path="url(#l4)"><text x="40" y="192" fill="#a5b4fc">study   <tspan fill="#e6edf3">→ Software Engineering, FPT University</tspan></text></g>
- <g clip-path="url(#l5)"><text x="40" y="226" fill="#a5b4fc">focus   <tspan fill="#e6edf3">→ Fullstack · AI Applications · Product</tspan></text></g>
- <text x="40" y="276"><tspan fill="#22d3ee">$</tspan><tspan fill="#e6edf3"> build --with purpose</tspan>
+ <g clip-path="url(#l1)"><text x="40" y="90"><tspan fill="#0284c7">$</tspan><tspan fill="#0f172a"> whoami</tspan></text></g>
+ <g clip-path="url(#l2)"><text x="40" y="124" fill="#6366f1">name    <tspan fill="#0f172a">→ Trần Văn Thuần (Felix)</tspan></text></g>
+ <g clip-path="url(#l3)"><text x="40" y="158" fill="#6366f1">role    <tspan fill="#0f172a">→ Founder &amp; CEO, DUOTECH TECHNOLOGY</tspan></text></g>
+ <g clip-path="url(#l4)"><text x="40" y="192" fill="#6366f1">study   <tspan fill="#0f172a">→ Software Engineering, FPT University</tspan></text></g>
+ <g clip-path="url(#l5)"><text x="40" y="226" fill="#6366f1">focus   <tspan fill="#0f172a">→ Fullstack · AI Applications · Product</tspan></text></g>
+ <text x="40" y="276"><tspan fill="#0284c7">$</tspan><tspan fill="#0f172a"> build --with purpose</tspan>
   <animate attributeName="opacity" values="0;1" dur="0.1s" begin="9s" fill="freeze"/></text>
- <rect x="275" y="261" width="10" height="20" fill="#67e8f9" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="9s" repeatCount="indefinite"/></rect>
+ <rect x="275" y="261" width="10" height="20" fill="#0284c7" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="9s" repeatCount="indefinite"/></rect>
 </g>
 </svg>
