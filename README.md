@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/selected-work.svg" width="100%" alt="Selected work: EZ Luyện Thi, TAM THANH AYO, AI Construction Management, Hotel and Business Systems, 3D Ticketing Experience." />
+<img src="https://raw.githubusercontent.com/Tranvanthuan1805/Tranvanthuan1805/main/assets/selected-work-domino.svg" width="100%" alt="Selected work as flipping domino tiles: EZ Luyện Thi, TAM THANH AYO, AI Construction Management, Hotel and Business Systems, 3D Ticketing Experience." />
 
 </div>
 
