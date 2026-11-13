@@ -1,0 +1,53 @@
+name: Daily dev log
+
+# Keeps one commit per day (Asia/Bangkok date) on main, authored as the repo owner.
+# Runs three times a day so a missed or delayed run is covered by the next one.
+on:
+  schedule:
+    - cron: "23 2 * * *"   # 09:23 ICT
+    - cron: "23 8 * * *"   # 15:23 ICT
+    - cron: "23 14 * * *"  # 21:23 ICT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-log
+  cancel-in-progress: false
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TZ: Asia/Bangkok
+      AUTHOR_NAME: Tran Van Thuan
+      AUTHOR_EMAIL: 194364484+Tranvanthuan1805@users.noreply.github.com
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 30
+
+      - name: Commit today's log line if missing
+        run: |
+          set -euo pipefail
+          today=$(date +%F)
+          if git log --author="$AUTHOR_EMAIL" --date=format-local:%F --format=%ad | grep -qx "$today"; then
+            echo "Already committed on $today, nothing to do."
+            exit 0
+          fi
+          file="dev-log/$(date +%Y-%m).md"
+          mkdir -p dev-log
+          echo "- $today $(date +%H:%M) (ICT): daily log" >> "$file"
+          git add "$file"
+          git -c user.name="$AUTHOR_NAME" -c user.email="$AUTHOR_EMAIL" \
+            commit -m "chore: daily dev log $today"
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 20
+            git pull --rebase origin main
+          done
+          echo "Push failed after 3 attempts" >&2
+          exit 1
